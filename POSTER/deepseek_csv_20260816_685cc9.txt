@@ -1,0 +1,301 @@
+text,label,reference
+"Our Gazipur jute mill runs on 22 kW rooftop solar, covering 15% of daily energy use. Every batch is traceable to farmers in Faridpur; 2,100 kg of raw jute sourced in January 2025 alone.",0,Synthetic product description - Bangladeshi jute goods
+"This jute tote is made from 100% jute fiber tested by BCSIR for tensile strength at 34 N. The dye is AZO-free and the handles are stitched with 3-ply cotton thread.",0,Synthetic product description - Bangladeshi jute goods
+"We buy jute from 340 small farmers in Kurigram under fixed-price contracts. In 2024, we paid Tk 68/kg, 12% above the local market average.",0,Synthetic product description - Bangladeshi jute goods
+"Our reusable jute bag replaced 0.8 million plastic bags in Dhaka in 2024 according to our retail partner logs. Each bag weighs 180 g and holds 12 kg.",0,Synthetic product description - Bangladeshi jute goods
+"The jute fabric for this collection is woven at our Sirajganj unit with 4 looms; each loom produces 60 meters per day. We reuse 90% of water used in washing.",0,Synthetic product description - Bangladeshi jute goods
+"This jute shopping bag carries GOTS certificate CU 12345 and uses natural starch sizing. Total carbon footprint per bag is 0.42 kg CO2e, verified by an external audit.",0,Synthetic product description - Bangladeshi jute goods
+"We compost 350 kg of jute cutting waste monthly at our Bogura facility. This waste is turned into organic fertilizer and distributed to 25 local farms.",0,Synthetic product description - Bangladeshi jute goods
+"Our jute rugs are handwoven by 45 women artisans in Jamalpur, each earning Tk 9,500 per month plus health insurance. The wool blend is 80% jute and 20% cotton.",0,Synthetic product description - Bangladeshi jute goods
+"Last quarter, our jute yarn dyeing unit reduced chemical oxygen demand by 18% after installing a Tk 12 lakh effluent treatment plant. Discharge pH is maintained at 7.2.",0,Synthetic product description - Bangladeshi jute goods
+"This bag uses water-based screen printing; 1 kg of ink covers 450 bags. We ship in recycled cartons with 30% post-consumer content, saving 2.4 trees per 1,000 boxes.",0,Synthetic product description - Bangladeshi jute goods
+"Our jute laptop sleeve has a 100% cotton lining, not polyester. It is produced in a factory with ISO 14001:2015 and SA8000 certifications.",0,Synthetic product description - Bangladeshi jute goods
+"We collected 12,500 kg of used jute sacks from Chattogram warehouses, sanitized them at 80°C, and repurposed 80% into new shopping bags.",0,Synthetic product description - Bangladeshi jute goods
+"The jute planters use a coconut coir base and jute rope handles. We sold 15,000 units in 2024; customer survey showed 92% were still intact after 6 months.",0,Synthetic product description - Bangladeshi jute goods
+"Our Tangail jute weaving center uses handlooms that consume zero electricity. Each artisan takes 3.5 hours to weave one 60 cm × 90 cm bag panel.",0,Synthetic product description - Bangladeshi jute goods
+"This product is part of our 'Jute for Climate' line; 5% of each sale (Tk 15) funds tree planting through BRAC's climate program. We planted 4,200 saplings in Barind in 2024.",0,Synthetic product description - Bangladeshi jute goods
+"The jute gift bags are dyed with onion skin and madder; no synthetic dyes. PH of wastewater after production is 6.8, tested by Dhaka University lab.",0,Synthetic product description - Bangladeshi jute goods
+"We reduced jute retting water use by 30% using ribbon retting at our Naogaon site. This method cut methane emissions by 0.35 kg per kg of fiber.",0,Synthetic product description - Bangladeshi jute goods
+"Each jute tote is stitched with 6 reinforced seams and tested to carry 10 kg for 1,000 cycles. Our factory in Rupganj has a 96% worker retention rate.",0,Synthetic product description - Bangladeshi jute goods
+"The raw jute for this order came from the 2024 monsoon crop in Pabna; we have batch certificates showing moisture at 12.4% and fiber length 2.8 m.",0,Synthetic product description - Bangladeshi jute goods
+"This jute pouch is lined with unbleached cotton and has a lead-free YKK zipper. It is part of a 10,000-piece production run that used 1,800 liters of water, 40% less than previous methods.",0,Synthetic product description - Bangladeshi jute goods
+"Our jute runner has a 1.2 cm flat weave and natural latex backing. We source latex from a supplier with FSC-certified rubber plantations in Chattogram Hill Tracts.",0,Synthetic product description - Bangladeshi jute goods
+"We use solar tunnel dryers for our jute products, reducing moisture-related defects by 15%. In 2024, our defect rate fell from 5.2% to 4.4%.",0,Synthetic product description - Bangladeshi jute goods
+"The jute storage baskets are made by a cooperative in Manikganj with 22 members. The cooperative received USD 4,000 from PKSF for bamboo frame tooling.",0,Synthetic product description - Bangladeshi jute goods
+"This jute bag's carbon footprint is 0.38 kg CO2e including cultivation, transport, and weaving. We offset 110% through a registered solar stove project in Khulna.",0,Synthetic product description - Bangladeshi jute goods
+"Our jute fabric is dyed with C.I. Reactive Blue 21 at 2% concentration, and the effluent is treated to BOD 23 mg/L before discharge, below the 30 mg/L national limit.",0,Synthetic product description - Bangladeshi jute goods
+"We recycle 850 liters of water per day from jute washing; the water is filtered through sand and reused for floor cleaning and toilet flushing at our Narayanganj unit.",0,Synthetic product description - Bangladeshi jute goods
+"This jute wine bag comes with a 1.5 mm felt liner made from recycled PET; each bag contains 220 g of recycled PET from 11 plastic bottles.",0,Synthetic product description - Bangladeshi jute goods
+"Our factory in Khulna uses jute batching oil that is 99% biodegradable. We test oil residue at 0.02% on finished fabric, meeting EU REACH limits.",0,Synthetic product description - Bangladeshi jute goods
+"The jute twine in this packaging is 3-ply, 120 m per 250 g spool, and has a breaking strength of 12 kg. We produce 2,000 spools weekly for local bakeries.",0,Synthetic product description - Bangladeshi jute goods
+"We audited our jute supply chain in April 2025 with 14 farmers in Rangpur. 85% of them use rain-fed cultivation, and we paid Tk 5,000 bonus per bigha.",0,Synthetic product description - Bangladeshi jute goods
+"This Panjabi uses 100% organic cotton from Madaripur, certified by Control Union CU 845210. The buttons are made from crushed coconut shell, and each shirt uses 28 buttons.",0,Synthetic product description - Bangladeshi fashion e-commerce
+"Our woven shirt factory in Savar installed 80 rooftop solar panels generating 32 kWh daily, meeting 14% of our cutting and stitching energy.",0,Synthetic product description - Bangladeshi fashion e-commerce
+"This kurti is dyed with low-impact dyes at 60°C, reducing water heating energy by 25%. It is cut and sewn by 120 workers earning Tk 12,000 monthly plus overtime.",0,Synthetic product description - Bangladeshi fashion e-commerce
+"We traced this T-shirt's cotton from 22 farms in Meherpur. Each farm uses 30% less irrigation water due to alternate wetting and drying; total water use per shirt is 1,100 liters.",0,Synthetic product description - Bangladeshi fashion e-commerce
+"Our denim line uses laser fading instead of stone washing, saving 45 liters of water per pair. In 2024, our Natore plant saved 1.2 million liters.",0,Synthetic product description - Bangladeshi fashion e-commerce
+"This dress is made from 70% recycled cotton and 30% viscose. The recycled cotton comes from 4,000 kg of pre-consumer cutting scraps collected in our Gazipur unit.",0,Synthetic product description - Bangladeshi fashion e-commerce
+"We use a closed-loop dyeing system at our Tangail facility; 92% of dye bath water is recycled. Our wastewater COD was 68 mg/L in the last test.",0,Synthetic product description - Bangladeshi fashion e-commerce
+"This hoodie has a Global Recycle Standard certificate, GRS 2025-11234, and uses no virgin plastic in its zipper tape. The drawcord is organic cotton, not polyester.",0,Synthetic product description - Bangladeshi fashion e-commerce
+"Our factory has LEED Gold certification from USGBC for the Bhaluka knitting unit. We reduced energy use by 18% per garment after installing heat recovery from compressors.",0,Synthetic product description - Bangladeshi fashion e-commerce
+"This saree is handwoven on wooden looms, using zero electricity for weaving. Each saree takes 4 days and 7 hours of artisan labor; we pay Tk 18,000 per saree.",0,Synthetic product description - Bangladeshi fashion e-commerce
+"We replaced 60% of our sewing machine belts with energy-efficient models, cutting idle power draw by 0.8 kW per line. Our Dhaka plant has 12 lines.",0,Synthetic product description - Bangladeshi fashion e-commerce
+"The cotton for this collection is BCI-certified from Jessore farms. BCI farmer IDs are recorded for every 100 kg bale; our last shipment was 2,400 kg.",0,Synthetic product description - Bangladeshi fashion e-commerce
+"This kids' tee uses screen printing with phthalate-free ink. We test for lead and cadmium; results were below 0.5 ppm for all 12 colors used.",0,Synthetic product description - Bangladeshi fashion e-commerce
+"Our factory in Ashulia runs a rainwater harvesting system with 200,000 L capacity. In 2024, we used 1.5 million liters of rainwater for washing and toilet flushing.",0,Synthetic product description - Bangladeshi fashion e-commerce
+"This shirt's packaging is a compostable cornstarch bag that breaks down in 90 days. We eliminated 200,000 polybags from our supply chain in 2025.",0,Synthetic product description - Bangladeshi fashion e-commerce
+"We knit this fabric on 24-gauge circular machines that consume 9% less energy than previous 20-gauge models. We audited energy use with GIZ's PAEC program.",0,Synthetic product description - Bangladeshi fashion e-commerce
+"This panjabi is made from 100% hand-spun cotton (khadi) from Cumilla, certified by the Khadi and Village Industries Commission. 140 spinners supplied 1,800 kg of yarn.",0,Synthetic product description - Bangladeshi fashion e-commerce
+"Our dyehouse in Narayanganj uses a biological treatment plant; 95% of wastewater is recycled. We publish monthly effluent reports, and pH is 7.4.",0,Synthetic product description - Bangladeshi fashion e-commerce
+"This ladies' kurti has zero-elastic packaging: a paper band made from recycled newspaper, using soy-based ink. We removed 1.2 million plastic hang tags in 2024.",0,Synthetic product description - Bangladeshi fashion e-commerce
+"We installed 6 heat pumps at our Dhamrai garment unit, reducing natural gas use by 22% in 2024. Each heat pump delivers 18 kW thermal output.",0,Synthetic product description - Bangladeshi fashion e-commerce
+"This blouse is sewn with 100% cotton thread, not polyester, to avoid microplastic shedding. We tested wash water and found 0 polyester fibers per liter.",0,Synthetic product description - Bangladeshi fashion e-commerce
+"Our cotton knit fabric is pre-shrunk and finished with biodegradable softener. The softener is 99% biodegradable per OECD 301B test.",0,Synthetic product description - Bangladeshi fashion e-commerce
+"We collect used garments from customers in Dhaka; in 2024 we took back 8,600 kg. 55% was resold as secondhand, 30% recycled into rags, 15% repurposed.",0,Synthetic product description - Bangladeshi fashion e-commerce
+"This polo shirt uses buttons made from tagua nut. Our factory in Savar is SEDEX-registered and completed a 4-pillar SMETA audit in March 2025.",0,Synthetic product description - Bangladeshi fashion e-commerce
+"We source silk from Rajshahi sericulture farmers, with 98% of cocoons traced to 35 farms. We pay Tk 1,250 per kg of dry cocoons, 15% above market.",0,Synthetic product description - Bangladeshi fashion e-commerce
+"This winter sweater is made from 65% recycled acrylic and 35% cotton. The recycled acrylic is certified by RCS, certificate RCS-2024-88912.",0,Synthetic product description - Bangladeshi fashion e-commerce
+"Our tailoring unit in Mirpur uses energy-efficient LED lighting; electricity use per garment dropped from 0.42 kWh to 0.36 kWh in 2024.",0,Synthetic product description - Bangladeshi fashion e-commerce
+"This cotton saree uses AZO-free dyes and is tested by SGS Bangladesh; test report number SGS-BD-2024-5521 confirms no banned amines.",0,Synthetic product description - Bangladeshi fashion e-commerce
+"We use 100% recycled paper tags for this collection, and the thread spools are made from 70% post-industrial recycled plastic. 40,000 spools were reused in 2025.",0,Synthetic product description - Bangladeshi fashion e-commerce
+"Our denim jacket has 30% hemp blend; hemp is grown in Chuadanga with rain-fed cultivation, using no irrigation and no pesticides. We bought 1,200 kg of hemp fiber.",0,Synthetic product description - Bangladeshi fashion e-commerce
+"This face cream contains 0.5% hyaluronic acid, 2% niacinamide, and 5% vitamin C from Kakadu plum. It is manufactured at our ISO 22716-certified factory in Uttara.",0,Synthetic product description - Bangladeshi cosmetics brand
+"Our lipstick is made with 65% castor oil from Rangpur farmers, 20% beeswax from Sundarban honey cooperatives, and 15% mineral pigments. Batch tested for lead at 0.8 ppm.",0,Synthetic product description - Bangladeshi cosmetics brand
+"This shampoo is sulfate-free and has pH 5.5, tested by Bangladesh Council of Scientific and Industrial Research. It contains 2% coconut-derived betaine.",0,Synthetic product description - Bangladeshi cosmetics brand
+"We use glass jars that are 30% recycled glass and aluminum lids with no plastic liner. In 2024, we shipped 50,000 jars and avoided 1.2 tonnes of plastic.",0,Synthetic product description - Bangladeshi cosmetics brand
+"This body butter contains 15% shea butter from Ghana and 10% cold-pressed coconut oil from Bhola. It is certified cruelty-free by Leaping Bunny program.",0,Synthetic product description - Bangladeshi cosmetics brand
+"Our soap bars are cured for 21 days, with a 7% superfat content. Each 100 g bar contains 22 g of olive oil and 10 g of coconut oil; pH is 9.2.",0,Synthetic product description - Bangladeshi cosmetics brand
+"This vitamin C serum uses 10% ascorbic acid at pH 3.2, packaged in an amber glass dropper with nitrogen flushing. We test oxidation at 3, 6, and 12 months.",0,Synthetic product description - Bangladeshi cosmetics brand
+"Our kajal is made from 40% carbon black from coconut shells, 30% almond oil, 25% castor oil, and 5% beeswax. It is tested for microbial load below 10 CFU/g.",0,Synthetic product description - Bangladeshi cosmetics brand
+"This toner contains 5% witch hazel extract and 1% panthenol. It is preserved with 0.5% phenoxyethanol; each batch is challenge-tested for 28 days.",0,Synthetic product description - Bangladeshi cosmetics brand
+"We use 100% recycled paper boxes with vegetable-based ink for our skincare sets. In 2025, we removed 800,000 plastic shrink wraps.",0,Synthetic product description - Bangladeshi cosmetics brand
+"This sunscreen is SPF 50+ with 3% avobenzone, 8% octocrylene, and 4% zinc oxide. It passed PA++++ testing at a South Korean lab.",0,Synthetic product description - Bangladeshi cosmetics brand
+"Our hair oil is 80% cold-pressed coconut oil, 15% jojoba oil, and 5% rosemary essential oil. We extract oil at 35°C to preserve antioxidants; peroxide value is 2.1 meq/kg.",0,Synthetic product description - Bangladeshi cosmetics brand
+"This lip balm contains 7% lanolin, 15% shea butter, and 8% beeswax. Each tube holds 4.2 g and has no petrolatum.",0,Synthetic product description - Bangladeshi cosmetics brand
+"We source honey from 42 beekeepers in Kushtia; our honey face wash contains 5% raw honey and 2% propolis extract. We pay Tk 450 per kg.",0,Synthetic product description - Bangladeshi cosmetics brand
+"This clay mask uses 20% bentonite clay and 3% kaolin. It is tested for heavy metals; arsenic is below 0.5 ppm and mercury below 0.1 ppm.",0,Synthetic product description - Bangladeshi cosmetics brand
+"Our lotion is made with 10% glycerin and 5% urea. The formula is dermatologist-tested on 50 volunteers in Dhaka; 94% reported no irritation over 14 days.",0,Synthetic product description - Bangladeshi cosmetics brand
+"We installed a 75 kW solar system at our cosmetic factory in Tongi; it covers 18% of our energy use, about 240 kWh per day.",0,Synthetic product description - Bangladeshi cosmetics brand
+"This deodorant uses 2% potassium alum crystals instead of aluminum chlorohydrate. We source alum from Shatkhira and grind it to 50-micron powder.",0,Synthetic product description - Bangladeshi cosmetics brand
+"Our essential oil blends are steam-distilled in Moulvibazar from 1,200 kg of lemongrass per month. Each 10 ml bottle contains oil from 200 g of fresh leaves.",0,Synthetic product description - Bangladeshi cosmetics brand
+"This nail polish is '5-free': no formaldehyde, toluene, DBP, camphor, or formaldehyde resin. We test each batch and publish results.",0,Synthetic product description - Bangladeshi cosmetics brand
+"This lipstick's packaging is made of 90% post-consumer recycled aluminum; each tube weighs 12 g and is refillable. We sold 15,000 refills in 2024.",0,Synthetic product description - Bangladeshi cosmetics brand
+"Our soap factory in Gazipur treats 95% of wastewater with a dissolved air flotation unit. We reduced oil and grease in effluent by 80%.",0,Synthetic product description - Bangladeshi cosmetics brand
+"This under-eye cream has 3% caffeine and 2% vitamin K. It is clinically tested on 60 participants; 87% saw reduced dark circles in 6 weeks.",0,Synthetic product description - Bangladeshi cosmetics brand
+"We use cold-process soap making at 45°C to retain glycerin. Each 120 g bar has 8% naturally occurring glycerin.",0,Synthetic product description - Bangladeshi cosmetics brand
+"This body scrub uses 25% sugar and 10% sea salt; the sugar is from organic date palm jaggery in Chuadanga. Particle size is 300–500 microns.",0,Synthetic product description - Bangladeshi cosmetics brand
+"Our rose water is steam-distilled from 500 kg of organic roses per batch from Savar flower farms. It is 100% rose distillate with no added fragrance.",0,Synthetic product description - Bangladeshi cosmetics brand
+"This shampoo bar uses sodium cocoyl isethionate at 40% and no sulfates. It has pH 5.5 and is tested for eye irritation using HET-CAM.",0,Synthetic product description - Bangladeshi cosmetics brand
+"We collect 200 kg of used glass jars monthly from Dhaka customers through our return program; 65% are sterilized and refilled.",0,Synthetic product description - Bangladeshi cosmetics brand
+"This face oil uses 5% rosehip oil and 3% sea buckthorn oil. It is packaged in a 30 ml violet glass bottle that blocks 99% UV light.",0,Synthetic product description - Bangladeshi cosmetics brand
+"Our factory in Mymensingh is carbon-neutral for Scope 2 electricity; we purchase renewable energy certificates for 120 MWh per year and use solar for 30 MWh.",0,Synthetic product description - Bangladeshi cosmetics brand
+"Our Green Leaf Tower in Bashundhara uses double-glazed low-E glass and reduced cooling load by 18% compared to our 2022 project. Energy audit by GBCS.",0,Synthetic About Us page - Bangladeshi real estate developer
+"This apartment complex has 40% open green space, with 120 native trees planted. Rainwater harvesting capacity is 300,000 liters; 50% of landscaping water comes from rainwater.",0,Synthetic About Us page - Bangladeshi real estate developer
+"We used AAC blocks and fly ash bricks for this building, reducing embodied carbon by 15%. Total fly ash content was 22% in concrete mix.",0,Synthetic About Us page - Bangladeshi real estate developer
+"Our Uttara project has 120 rooftop solar panels on each block, generating 48 kW. Common areas including elevators and parking lights use solar power.",0,Synthetic About Us page - Bangladeshi real estate developer
+"This Banani project achieved EDGE Advanced certification with 28% energy savings, 22% water savings, and 34% less embodied carbon compared to baseline.",0,Synthetic About Us page - Bangladeshi real estate developer
+"The sewage treatment plant at our Dhanmondi complex treats 100,000 liters per day; 80% recycled water is used for flushing and gardening. BOD of outlet is 12 mg/L.",0,Synthetic About Us page - Bangladeshi real estate developer
+"We preserved 8 mature trees on this Gulshan plot by redesigning basement. We transplanted 15 additional trees; 13 survived after 12 months.",0,Synthetic About Us page - Bangladeshi real estate developer
+"Our Chattogram project uses 100% LED lighting in common areas; total connected load for lighting is 38 kW, 48% lower than a conventional design.",0,Synthetic About Us page - Bangladeshi real estate developer
+"This residential tower has a green roof of 2,200 sq ft with 14 local plant species. The roof reduces heat island effect; surface temperature was 6°C lower in April 2025.",0,Synthetic About Us page - Bangladeshi real estate developer
+"We used recycled steel for 40% of reinforcement bars in this project. The steel mill in Chittagong supplied 1,500 tonnes of recycled steel with EPD documentation.",0,Synthetic About Us page - Bangladeshi real estate developer
+"Our Mirpur housing project has 3 electric vehicle charging points and 40 bicycle racks. 15% of parking spaces are reserved for carpool vehicles.",0,Synthetic About Us page - Bangladeshi real estate developer
+"The building envelope at our Banani project has a U-value of 1.8 W/m²K for walls and 2.2 W/m²K for roofs. We used 75 mm XPS insulation on the roof.",0,Synthetic About Us page - Bangladeshi real estate developer
+"We installed water-efficient fixtures with flow rates of 6 liters/min for showers and 1.5 liters/flush for WCs. Total water use is 96 liters per person per day.",0,Synthetic About Us page - Bangladeshi real estate developer
+"This project has 60% of construction waste recycled; 850 tonnes of concrete and brick rubble was crushed and reused as road base on site.",0,Synthetic About Us page - Bangladeshi real estate developer
+"Our Khulshi project in Chattogram has 35% site area as pervious paving and 25% as green cover. Stormwater runoff reduced by 40% in the last monsoon.",0,Synthetic About Us page - Bangladeshi real estate developer
+"We use low-VOC paints (VOC content <50 g/L) and formaldehyde-free plywood in all interior works. Indoor air quality tested at 0.04 ppm formaldehyde.",0,Synthetic About Us page - Bangladeshi real estate developer
+"This commercial building in Tejgaon has a solar glass façade that generates 25 kW and shades 35% of direct sunlight. Energy savings of 12% verified by SREDA.",0,Synthetic About Us page - Bangladeshi real estate developer
+"Our Baridhara project has 12 rainwater recharge wells, each 30 m deep. During the 2024 monsoon, we recharged an estimated 2.4 million liters of groundwater.",0,Synthetic About Us page - Bangladeshi real estate developer
+"We sourced 70% of construction materials within 500 km, including bricks from Dhaka, cement from Narayanganj, and glass from Habiganj. Transportation carbon reduced by 25%.",0,Synthetic About Us page - Bangladeshi real estate developer
+"This building has an on-site composting system that processes 150 kg of food waste daily from 180 apartments. The compost is used in landscaping.",0,Synthetic About Us page - Bangladeshi real estate developer
+"Our Sylhet project preserved a natural waterbody of 0.8 acres and planted 400 native aquatic plants. We did not fill any wetland; 95% of the original waterbody remains.",0,Synthetic About Us page - Bangladeshi real estate developer
+"This apartment's heat pump water heaters use 60% less electricity than conventional geysers. We installed 180 heat pumps with a COP of 3.2.",0,Synthetic About Us page - Bangladeshi real estate developer
+"The project has a 50 kW rooftop solar plant and 120 kWh battery storage; common area lighting runs off-grid for 4 hours daily.",0,Synthetic About Us page - Bangladeshi real estate developer
+"Our project achieved LEED v4.1 Gold certification with 62 points; energy cost savings are 24% and water use reduction is 31% compared to LEED baseline.",0,Synthetic About Us page - Bangladeshi real estate developer
+"We used 35% ground granulated blast-furnace slag in concrete for foundations, reducing cement use by 1,200 tonnes and CO2 emissions by 1,000 tonnes.",0,Synthetic About Us page - Bangladeshi real estate developer
+"This Gulshan office tower has demand-controlled ventilation with CO2 sensors on 8 floors; HVAC energy use decreased by 14% in the first year.",0,Synthetic About Us page - Bangladeshi real estate developer
+"We installed 220 low-flow kitchen faucets and 180 dual-flush WCs in our Bashundhara project. Water bills are 28% below comparable buildings.",0,Synthetic About Us page - Bangladeshi real estate developer
+"The roof of our Banani office has a 0.9 MW solar plant, producing 1,100 MWh per year. It supplies 30% of the building's total electricity.",0,Synthetic About Us page - Bangladeshi real estate developer
+"We retained a 60-year-old banyan tree and built around it with a cantilevered deck; the tree canopy covers 450 sq ft and shades the courtyard.",0,Synthetic About Us page - Bangladeshi real estate developer
+"Our project in Uttara has 50% of parking underground, reducing paved surface heat. We planted 220 trees and 1,200 shrubs; 90% survived after one year.",0,Synthetic About Us page - Bangladeshi real estate developer
+"This food box is made from 80% recycled paperboard and 20% virgin pulp from FSC-certified plantations in Sylhet. Each box weighs 42 g and holds 750 ml.",0,Synthetic product description - Bangladeshi food packaging supplier
+"Our bakery bags are made of 100% unbleached kraft paper. In 2024, we supplied 1.2 million bags to Dhaka bakeries, replacing 18 tonnes of plastic bags.",0,Synthetic product description - Bangladeshi food packaging supplier
+"This sugarcane bagasse container is compostable in 90 days under industrial composting at 58°C. It passed EN 13432 tests at a lab in Germany.",0,Synthetic product description - Bangladeshi food packaging supplier
+"We use water-based food-safe ink on our paper cups. The cups have a PE coating of 12 g/m², which is 30% thinner than standard, reducing plastic by 18 kg per 1,000 cups.",0,Synthetic product description - Bangladeshi food packaging supplier
+"Our food trays are made from 100% bamboo pulp from Chittagong Hill Tracts. The factory uses 70% recycled water in the pulping process; 1.8 million liters recycled monthly.",0,Synthetic product description - Bangladeshi food packaging supplier
+"This burger box uses a cornstarch-based lamination instead of plastic. It is tested for water and grease resistance for 2 hours at 90°C, passing FDA food-contact standards.",0,Synthetic product description - Bangladeshi food packaging supplier
+"We produce 500,000 paper cups daily at our Tongi plant. The plant's solar array generates 240 kW, covering 20% of our energy demand.",0,Synthetic product description - Bangladeshi food packaging supplier
+"Our rice bran oil bottles use 30% recycled PET (rPET). Each 1 L bottle contains 12 g of rPET; we use 96 tonnes of rPET per year.",0,Synthetic product description - Bangladeshi food packaging supplier
+"This disposable cutlery is made from 100% birchwood, not plastic. We source birchwood from FSC-certified forests and package in 100% recycled kraft boxes.",0,Synthetic product description - Bangladeshi food packaging supplier
+"Our glass jars for honey are 40% recycled glass and use metal lug caps with BPA-free lining. We collect 20,000 jars annually through a deposit scheme.",0,Synthetic product description - Bangladeshi food packaging supplier
+"This sandwich pack is made from 90% post-consumer recycled cardboard. Each pack is 35 g, and our production of 2 million packs in 2024 used 63 tonnes of recycled fiber.",0,Synthetic product description - Bangladeshi food packaging supplier
+"We eliminated single-use plastic windows from our cake boxes; the window is now made from 30-micron PLA film derived from cornstarch. The film is certified compostable.",0,Synthetic product description - Bangladeshi food packaging supplier
+"Our takeaway containers are made from bagasse, with no PFAS added. Tests show fluorine content below 20 ppm, meeting Danish food packaging limits.",0,Synthetic product description - Bangladeshi food packaging supplier
+"This spice pouch uses 70% recycled polyethylene and 30% virgin PE. We reduced virgin plastic by 120 tonnes in 2024 through this blend.",0,Synthetic product description - Bangladeshi food packaging supplier
+"Our food wrap paper is coated with beeswax and jojoba oil, not paraffin. Each 30 cm × 30 cm sheet uses 0.8 g beeswax and lasts 100 uses.",0,Synthetic product description - Bangladeshi food packaging supplier
+"We recycle 95% of paper offcuts in our packaging plant; 250 tonnes of offcuts are pulped and reused each year. Our waste-to-landfill ratio is 3%.",0,Synthetic product description - Bangladeshi food packaging supplier
+"This ice cream cup uses a 100% compostable paperboard and a PLA liner. In 2025, we shipped 5 million cups and offset transport emissions via a solar project.",0,Synthetic product description - Bangladeshi food packaging supplier
+"Our paper straws are made from 3-ply FSC paper with a 0.3 mm wall. They stay rigid for 4 hours in cold drinks, tested at 5°C.",0,Synthetic product description - Bangladeshi food packaging supplier
+"We switched to 100% recycled corrugated boxes for our tea packaging; each box uses 65 g of recycled fiber and saves 0.11 kg CO2e compared to virgin board.",0,Synthetic product description - Bangladeshi food packaging supplier
+"This biryani box is made of 60% sugarcane bagasse and 40% bamboo fiber. It can hold 1.2 kg of food and is oven-safe at 180°C for 30 minutes.",0,Synthetic product description - Bangladeshi food packaging supplier
+"Our milk packets use 25% recycled HDPE. In 2024, we produced 300 million packets and saved 2,400 tonnes of virgin plastic.",0,Synthetic product description - Bangladeshi food packaging supplier
+"This biscuit wrapper is made of 100% recycled PET film, 23 microns thick. It is certified by the Global Recycled Standard, GRS 2024-77812.",0,Synthetic product description - Bangladeshi food packaging supplier
+"We use 100% recycled paper labels on our juice bottles; the adhesive is water-based and PVC-free. We removed 20 tonnes of PVC labels in 2025.",0,Synthetic product description - Bangladeshi food packaging supplier
+"This food delivery bag is made from jute and cotton, with a polyester-free insulation layer of recycled denim. Each bag replaces 300 plastic bags per year.",0,Synthetic product description - Bangladeshi food packaging supplier
+"Our factory in Narayanganj uses a closed-loop cooling system, recycling 85% of water. We reduced total water use per tonne of paper by 28% since 2022.",0,Synthetic product description - Bangladeshi food packaging supplier
+"This tea bag envelope is made from 100% compostable cellulose film. It disintegrates in home compost in 12 weeks, tested per AS 5810.",0,Synthetic product description - Bangladeshi food packaging supplier
+"We use lightweight 18-micron BOPP film for our snack wrappers, down from 25 microns, cutting plastic use by 28% or 112 tonnes in 2024.",0,Synthetic product description - Bangladeshi food packaging supplier
+"Our egg boxes are made from 100% recycled newspaper and cardboard. Each 12-egg box weighs 45 g and has no added dyes or bleaches.",0,Synthetic product description - Bangladeshi food packaging supplier
+"This takeaway container lid is made from 100% PLA and is certified OK Compost Industrial. We measured 95% biodegradation in 70 days at 58°C.",0,Synthetic product description - Bangladeshi food packaging supplier
+"We collect used cooking oil bottles from Dhaka restaurants; in 2024, we recovered 18,000 bottles, 70% were recycled into new food-grade containers.",0,Synthetic product description - Bangladeshi food packaging supplier
+"This eco-friendly jute bag is a green choice for conscious shoppers who care about Mother Earth. Feel good every time you shop.",1,Synthetic social media caption - Bangladeshi jute brand
+"Our jute products are made with love and earth-vibes, bringing sustainable vibes to your daily routine. Go green with us.",1,Synthetic social media caption - Bangladeshi jute brand
+"Say hello to a greener tomorrow with our natural jute tote. It's eco-friendly, sustainable, and simply good for the planet.",1,Synthetic social media caption - Bangladeshi jute brand
+"We are passionate about sustainability. Our jute bags are a small step towards a big green change for Dhaka and beyond.",1,Synthetic social media caption - Bangladeshi jute brand
+"This planet-friendly jute bag is perfect for eco-conscious souls. Join our green journey today.",1,Synthetic social media caption - Bangladeshi jute brand
+"Our jute collection is inspired by nature and crafted with care. Choose eco-friendly, choose love, choose green.",1,Synthetic social media caption - Bangladeshi jute brand
+"Feel the earth-vibes with every use of our natural jute bag. It's sustainable, it's stylish, it's the right thing to do.",1,Synthetic social media caption - Bangladeshi jute brand
+"We believe in a greener future. That's why our jute bags are made with sustainable materials and good intentions.",1,Synthetic social media caption - Bangladeshi jute brand
+"This eco-friendly jute bag is your daily partner in saving the planet. Be the change with every grocery trip.",1,Synthetic social media caption - Bangladeshi jute brand
+"Our jute bags are a green revolution in your hands. Earth-friendly, people-friendly, and full of natural charm.",1,Synthetic social media caption - Bangladeshi jute brand
+"Embrace the eco-lifestyle with our sustainable jute tote. It's not just a bag; it's a promise to the planet.",1,Synthetic social media caption - Bangladeshi jute brand
+"We're committed to making eco-friendly choices easy for everyone. Our jute bags are natural, renewable, and totally green.",1,Synthetic social media caption - Bangladeshi jute brand
+"This jute bag carries more than groceries—it carries hope for a cleaner, greener world. Sustainable living starts here.",1,Synthetic social media caption - Bangladeshi jute brand
+"Our jute products are designed with the earth in mind. Soft, durable, and oh-so-eco-friendly.",1,Synthetic social media caption - Bangladeshi jute brand
+"Go green with our beautiful jute bags. They're natural, sustainable, and made by people who care about tomorrow.",1,Synthetic social media caption - Bangladeshi jute brand
+"This eco-friendly jute tote is all about good vibes and green living. Help the planet one bag at a time.",1,Synthetic social media caption - Bangladeshi jute brand
+"Our jute bags are a conscious choice for a better planet. Natural materials, sustainable soul, zero worries.",1,Synthetic social media caption - Bangladeshi jute brand
+"Join the green movement with our stylish jute collection. Eco-friendly fashion that feels as good as it looks.",1,Synthetic social media caption - Bangladeshi jute brand
+"This natural jute bag is a true planet hero. It's sustainable, reusable, and bursting with earthy goodness.",1,Synthetic social media caption - Bangladeshi jute brand
+"We are redefining green living with jute. Every bag is a step toward a cleaner earth and a brighter future.",1,Synthetic social media caption - Bangladeshi jute brand
+"Our jute bags are made from earth-friendly fibers and a lot of love. Be kind to the planet while staying chic.",1,Synthetic social media caption - Bangladeshi jute brand
+"This eco-friendly jute bag is a must-have for conscious consumers. Save the planet in style.",1,Synthetic social media caption - Bangladeshi jute brand
+"Feel good about shopping with our sustainable jute bags. They're green, clean, and simply wonderful.",1,Synthetic social media caption - Bangladeshi jute brand
+"Our jute collection is a tribute to nature. Each piece whispers sustainability and eco-magic.",1,Synthetic social media caption - Bangladeshi jute brand
+"Choose our planet-friendly jute bag and become part of the green solution. It's the natural choice for eco-warriors.",1,Synthetic social media caption - Bangladeshi jute brand
+"This jute tote is pure earth-vibes. Sustainable, stylish, and made for mindful living.",1,Synthetic social media caption - Bangladeshi jute brand
+"We care deeply about the environment. Our jute bags are a small act of green kindness you can carry every day.",1,Synthetic social media caption - Bangladeshi jute brand
+"Our eco-friendly jute bags are here to make sustainability easy and beautiful. One bag can spark a green change.",1,Synthetic social media caption - Bangladeshi jute brand
+"This natural jute bag is a hug for the planet. Soft, sustainable, and full of positive eco-energy.",1,Synthetic social media caption - Bangladeshi jute brand
+"Step into the green life with our jute bags. Eco-friendly, planet-loving, and perfect for everyday adventures.",1,Synthetic social media caption - Bangladeshi jute brand
+"Step into nature with our new eco-friendly green Panjabi collection. We are committed to saving the planet in Dhaka and making sustainable choices.",1,Synthetic social media caption - Bangladeshi fashion brand
+"Our fashion is more than fabric; it's a green promise. This collection is sustainably made with love for the earth.",1,Synthetic social media caption - Bangladeshi fashion brand
+"Dress in earth-vibes with our conscious clothing line. We use eco-friendly materials to keep you stylish and the planet happy.",1,Synthetic social media caption - Bangladeshi fashion brand
+"This saree is woven with sustainable dreams and natural vibes. Feel the green difference in every drape.",1,Synthetic social media caption - Bangladeshi fashion brand
+"Our new collection is inspired by nature and powered by sustainability. Eco-fashion that speaks for the planet.",1,Synthetic social media caption - Bangladeshi fashion brand
+"Be a green fashion icon with our eco-friendly Panjabi. It's soft, breathable, and full of planet love.",1,Synthetic social media caption - Bangladeshi fashion brand
+"We are on a mission to make fashion sustainable. Every stitch in this collection is a small step for a greener world.",1,Synthetic social media caption - Bangladeshi fashion brand
+"This eco-chic kurta is made for the conscious soul. Natural vibes, sustainable style, pure earth energy.",1,Synthetic social media caption - Bangladeshi fashion brand
+"Our clothing is crafted with eco-friendly magic and green intentions. Wear your love for the planet.",1,Synthetic social media caption - Bangladeshi fashion brand
+"Feel the sustainable softness of our new collection. We care about the earth, and it shows in every thread.",1,Synthetic social media caption - Bangladeshi fashion brand
+"This is not just fashion; it's a green revolution. Our eco-friendly fabrics make every outfit a planet-positive choice.",1,Synthetic social media caption - Bangladeshi fashion brand
+"Our conscious clothing line is here to make sustainability beautiful. Earth-vibes, natural feel, and timeless style.",1,Synthetic social media caption - Bangladeshi fashion brand
+"Step out in style while protecting the environment. Our green fashion collection is made for eco-conscious trendsetters.",1,Synthetic social media caption - Bangladeshi fashion brand
+"We are committed to a cleaner planet through sustainable fashion. This eco-friendly dress is proof that style can be green.",1,Synthetic social media caption - Bangladeshi fashion brand
+"This outfit is made with nature in mind and sustainability at heart. Feel good, look good, do good.",1,Synthetic social media caption - Bangladeshi fashion brand
+"Our sustainable fabrics are soft on you and gentle on the earth. This collection is pure eco-love.",1,Synthetic social media caption - Bangladeshi fashion brand
+"Join our green journey with every outfit. We use eco-friendly materials to create fashion that cares for tomorrow.",1,Synthetic social media caption - Bangladeshi fashion brand
+"This Panjabi is a blend of tradition and green innovation. It's not just clothing; it's a commitment to the planet.",1,Synthetic social media caption - Bangladeshi fashion brand
+"Our eco-fashion is designed for the conscious generation. Sustainable, stylish, and rooted in earth-vibes.",1,Synthetic social media caption - Bangladeshi fashion brand
+"Every piece in this collection is a love letter to the earth. Green materials, natural feel, sustainable soul.",1,Synthetic social media caption - Bangladeshi fashion brand
+"We believe fashion can heal the planet. Our new green line is an eco-friendly statement for a better Bangladesh.",1,Synthetic social media caption - Bangladeshi fashion brand
+"Wear the change you want to see. Our sustainable clothing is made with eco-friendly fabrics and pure intentions.",1,Synthetic social media caption - Bangladeshi fashion brand
+"This saree is a green dream come true. Natural fibers, earth-friendly dyes, and endless sustainable elegance.",1,Synthetic social media caption - Bangladeshi fashion brand
+"Our new collection is all about eco-chic vibes. Sustainable fashion that makes you and the planet feel amazing.",1,Synthetic social media caption - Bangladeshi fashion brand
+"Choose our green fashion and become part of the sustainable movement. It's nature's style, reimagined.",1,Synthetic social media caption - Bangladeshi fashion brand
+"This eco-friendly kurti is made for mindful wardrobes. Natural, breathable, and full of earth-positive energy.",1,Synthetic social media caption - Bangladeshi fashion brand
+"Our sustainable fashion line is a step toward a greener future. Feel the planet's love in every outfit.",1,Synthetic social media caption - Bangladeshi fashion brand
+"This dress is a celebration of nature. Eco-friendly materials and sustainable design for the conscious consumer.",1,Synthetic social media caption - Bangladeshi fashion brand
+"We are crafting a greener tomorrow with our fashion. Every stitch is a promise to the earth.",1,Synthetic social media caption - Bangladeshi fashion brand
+"Our green collection brings earth-vibes to your closet. Sustainable style that speaks softly but acts boldly.",1,Synthetic social media caption - Bangladeshi fashion brand
+"This face cream is 100% natural feeling and packed with green goodness. Let your skin glow the eco-friendly way.",1,Synthetic social media caption - Bangladeshi cosmetics brand
+"Our beauty line is pure earth-vibes. We use eco-friendly ingredients to keep you glowing and the planet smiling.",1,Synthetic social media caption - Bangladeshi cosmetics brand
+"Indulge in nature's touch with our sustainable skincare. It's green, clean, and totally guilt-free.",1,Synthetic social media caption - Bangladeshi cosmetics brand
+"This lipstick is made with love for you and the earth. Natural vibes, eco-friendly shine, and no compromises.",1,Synthetic social media caption - Bangladeshi cosmetics brand
+"Our cosmetics are cruelty-free and planet-friendly. Beauty that cares for every creature and every leaf.",1,Synthetic social media caption - Bangladeshi cosmetics brand
+"Feel the natural glow of our eco-friendly face mask. It's like a forest bath for your skin.",1,Synthetic social media caption - Bangladeshi cosmetics brand
+"We believe in green beauty. Our products are made with sustainable ingredients and lots of earth love.",1,Synthetic social media caption - Bangladeshi cosmetics brand
+"This shampoo is a green cleanse for your hair and soul. Eco-friendly, natural-feeling, and full of planet care.",1,Synthetic social media caption - Bangladeshi cosmetics brand
+"Our skincare is nature's secret, bottled with love. Sustainable beauty for the conscious soul.",1,Synthetic social media caption - Bangladeshi cosmetics brand
+"Glow naturally with our earth-friendly cosmetics. We use green ingredients to make you shine inside and out.",1,Synthetic social media caption - Bangladeshi cosmetics brand
+"This body lotion is a hug from nature. Eco-conscious, sustainable, and oh-so-soft.",1,Synthetic social media caption - Bangladeshi cosmetics brand
+"Our beauty products are made with pure green energy. Feel the earth-vibes in every drop.",1,Synthetic social media caption - Bangladeshi cosmetics brand
+"Pamper yourself with our sustainable skincare range. It's natural, eco-friendly, and made for mindful beauty lovers.",1,Synthetic social media caption - Bangladeshi cosmetics brand
+"This serum is a green miracle in a bottle. We use eco-friendly ingredients to bring out your natural radiance.",1,Synthetic social media caption - Bangladeshi cosmetics brand
+"Our cosmetics are inspired by nature and crafted with care for the planet. Beauty without the footprint.",1,Synthetic social media caption - Bangladeshi cosmetics brand
+"This kajal is deeply natural and eco-conscious. Define your eyes while caring for the earth.",1,Synthetic social media caption - Bangladeshi cosmetics brand
+"We are committed to green beauty. Our products are sustainable, cruelty-free, and full of natural vibes.",1,Synthetic social media caption - Bangladeshi cosmetics brand
+"Let your skin breathe with our eco-friendly formulas. Pure, plant-based, and planet-loving.",1,Synthetic social media caption - Bangladeshi cosmetics brand
+"This face wash is a splash of green goodness. It cleanses naturally while keeping the earth happy.",1,Synthetic social media caption - Bangladeshi cosmetics brand
+"Our beauty line is a gift from nature to you. Sustainable, ethical, and beautifully green.",1,Synthetic social media caption - Bangladeshi cosmetics brand
+"Feel the natural difference with our eco-friendly cosmetics. Your skin and the planet will thank you.",1,Synthetic social media caption - Bangladeshi cosmetics brand
+"This moisturizer is 100% natural feeling and packed with earth-loving ingredients. Green beauty at its best.",1,Synthetic social media caption - Bangladeshi cosmetics brand
+"We make beauty sustainable. Our products are crafted with natural vibes and eco-friendly promises.",1,Synthetic social media caption - Bangladeshi cosmetics brand
+"Glow green with our conscious cosmetics. Every product is a small step toward a cleaner planet.",1,Synthetic social media caption - Bangladeshi cosmetics brand
+"This lip balm is pure plant magic. Eco-friendly, cruelty-free, and deeply nourishing for you and the earth.",1,Synthetic social media caption - Bangladeshi cosmetics brand
+"Our skincare is a celebration of nature. Sustainable ingredients and green energy in every jar.",1,Synthetic social media caption - Bangladeshi cosmetics brand
+"Choose our eco-beauty range and join the planet-positive movement. Natural looks, green soul.",1,Synthetic social media caption - Bangladeshi cosmetics brand
+"This face oil is liquid earth-vibes. We use sustainable ingredients to make your skin radiate naturally.",1,Synthetic social media caption - Bangladeshi cosmetics brand
+"Our products are green inside and out. From eco-friendly packaging to natural formulas, it's all about the planet.",1,Synthetic social media caption - Bangladeshi cosmetics brand
+"Beauty should not cost the earth. Our cosmetics are natural, sustainable, and made with love for the planet.",1,Synthetic social media caption - Bangladeshi cosmetics brand
+"Our new project is a green oasis in the heart of Dhaka. Live sustainably, breathe nature, and enjoy eco-friendly living.",1,Synthetic About Us page - Bangladeshi real estate developer
+"We build homes that hug the earth. Our eco-friendly apartments are designed for a sustainable future.",1,Synthetic About Us page - Bangladeshi real estate developer
+"This is not just a residence; it's a green dream. Experience eco-luxury with natural vibes and planet-friendly design.",1,Synthetic About Us page - Bangladeshi real estate developer
+"Our upcoming project is a tribute to Mother Nature. Sustainable living spaces with fresh air and green energy.",1,Synthetic About Us page - Bangladeshi real estate developer
+"Live in harmony with nature in our eco-conscious community. We are committed to a greener Dhaka.",1,Synthetic About Us page - Bangladeshi real estate developer
+"This apartment complex is built with love for the planet. Green living, natural light, and earth-friendly materials.",1,Synthetic About Us page - Bangladeshi real estate developer
+"Welcome to your sustainable sanctuary. Our homes are eco-friendly, energy-conscious, and filled with positive green vibes.",1,Synthetic About Us page - Bangladeshi real estate developer
+"We create spaces that respect the earth. This project is a green statement in the cityscape.",1,Synthetic About Us page - Bangladeshi real estate developer
+"Our real estate is designed for a better tomorrow. Eco-friendly buildings that care for the planet and your wellbeing.",1,Synthetic About Us page - Bangladeshi real estate developer
+"Find your peace in our nature-inspired homes. Green living, sustainable design, and a promise to the earth.",1,Synthetic About Us page - Bangladeshi real estate developer
+"This project is a green revolution in urban living. Natural spaces, eco-friendly materials, and mindful design.",1,Synthetic About Us page - Bangladeshi real estate developer
+"We believe in building a greener future. Our apartments are sustainable, airy, and full of earth-vibes.",1,Synthetic About Us page - Bangladeshi real estate developer
+"Live the green life in our eco-conscious towers. Nature is at your doorstep, and sustainability is in every corner.",1,Synthetic About Us page - Bangladeshi real estate developer
+"Our homes are a breath of fresh air. Eco-friendly design, green landscapes, and a commitment to the planet.",1,Synthetic About Us page - Bangladeshi real estate developer
+"Step into a world of sustainable luxury. This project blends nature and comfort with eco-friendly living.",1,Synthetic About Us page - Bangladeshi real estate developer
+"We build with the earth in mind. Our eco-friendly apartments are designed for conscious urban families.",1,Synthetic About Us page - Bangladeshi real estate developer
+"This is green living at its finest. Natural materials, open spaces, and a sustainable lifestyle in Dhaka.",1,Synthetic About Us page - Bangladeshi real estate developer
+"Our project is a green promise to the city. Live better, breathe easier, and know the planet is smiling.",1,Synthetic About Us page - Bangladeshi real estate developer
+"We're making eco-friendly living accessible. This residential project is filled with natural light and sustainable charm.",1,Synthetic About Us page - Bangladeshi real estate developer
+"Discover a greener way to live. Our apartments are designed to nurture you and the planet.",1,Synthetic About Us page - Bangladeshi real estate developer
+"This development is rooted in sustainability. Every detail is green, from the gardens to the energy-saving design.",1,Synthetic About Us page - Bangladeshi real estate developer
+"Our new community is an eco-haven. Feel the earth-vibes in every building and every walkway.",1,Synthetic About Us page - Bangladeshi real estate developer
+"Live close to nature in our eco-friendly homes. We prioritize green spaces and sustainable living for all.",1,Synthetic About Us page - Bangladeshi real estate developer
+"This project is a celebration of earth-conscious architecture. Sustainable, serene, and simply green.",1,Synthetic About Us page - Bangladeshi real estate developer
+"Your dream green home awaits. We combine comfort, nature, and eco-friendly living in one beautiful place.",1,Synthetic About Us page - Bangladeshi real estate developer
+"We're building a cleaner, greener future for Dhaka. Our eco-friendly apartments are the start of your sustainable story.",1,Synthetic About Us page - Bangladeshi real estate developer
+"This residence is a sanctuary of sustainability. Natural materials, green roofs, and an earth-loving soul.",1,Synthetic About Us page - Bangladeshi real estate developer
+"Experience eco-luxury with our new project. Green living spaces designed for mindful families.",1,Synthetic About Us page - Bangladeshi real estate developer
+"Our buildings are designed to be kind to the earth. Sustainable design, natural ventilation, and pure green vibes.",1,Synthetic About Us page - Bangladeshi real estate developer
+"Join our green community and live the sustainable lifestyle you've dreamed of. Earth-friendly homes for a brighter tomorrow.",1,Synthetic About Us page - Bangladeshi real estate developer
+"This packaging is green, clean, and kind to the planet. Choose eco-friendly for every meal.",1,Synthetic social media caption - Bangladeshi food packaging brand
+"Our food boxes are made with earth-vibes and a lot of love. Safe for you, gentle on the planet.",1,Synthetic social media caption - Bangladeshi food packaging brand
+"Say goodbye to plastic guilt with our eco-friendly packaging. It's natural, sustainable, and totally green.",1,Synthetic social media caption - Bangladeshi food packaging brand
+"We are committed to a greener planet with every pack. Our food packaging is as pure as your food.",1,Synthetic social media caption - Bangladeshi food packaging brand
+"This container is a planet-friendly choice for conscious food lovers. Feel good about every takeaway.",1,Synthetic social media caption - Bangladeshi food packaging brand
+"Our packaging is inspired by nature and designed for a sustainable future. Green, clean, and ready to serve.",1,Synthetic social media caption - Bangladeshi food packaging brand
+"Wrap your food in sustainability. Our eco-friendly packaging keeps meals fresh and the earth happy.",1,Synthetic social media caption - Bangladeshi food packaging brand
+"We make green packaging easy. Natural materials, eco-friendly vibes, and zero guilt.",1,Synthetic social media caption - Bangladeshi food packaging brand
+"This food wrap is pure earth-love. It's sustainable, safe, and perfect for mindful kitchens.",1,Synthetic social media caption - Bangladeshi food packaging brand
+"Our eco-friendly packaging is a small change with a big green impact. Join the movement.",1,Synthetic social media caption - Bangladeshi food packaging brand
+"Serve the planet by choosing our sustainable food boxes. It's packaging with a purpose.",1,Synthetic social media caption - Bangladeshi food packaging brand
+"We believe in a world without plastic waste. Our green packaging is part of that dream.",1,Synthetic social media caption - Bangladeshi food packaging brand
+"This cup is made from nature and returns to nature. Eco-friendly, sustainable, and wonderfully green.",1,Synthetic social media caption - Bangladeshi food packaging brand
+"Our food containers are designed for the earth-conscious consumer. Pure, natural, and planet-safe.",1,Synthetic social media caption - Bangladeshi food packaging brand
+"Embrace green dining with our eco-friendly packaging. It's a delicious way to care for the planet.",1,Synthetic social media caption - Bangladeshi food packaging brand
+"This packaging is made with sustainable materials and positive earth energy. Feel good about every bite.",1,Synthetic social media caption - Bangladeshi food packaging brand
+"We are on a mission to green your kitchen. Our food packaging is natural, safe, and eco-friendly.",1,Synthetic social media caption - Bangladeshi food packaging brand
+"This box is more than packaging; it's a promise to the planet. Green vibes with every meal.",1,Synthetic social media caption - Bangladeshi food packaging brand
+"Our eco-friendly food wrap is a hug for the environment. Natural, sustainable, and full of care.",1,Synthetic social media caption - Bangladeshi food packaging brand
+"Choose our green packaging and be part of the solution. It's planet-friendly and food-safe.",1,Synthetic social media caption - Bangladeshi food packaging brand
+"This takeaway container is pure earth-vibes. We make sustainability simple and stylish.",1,Synthetic social media caption - Bangladeshi food packaging brand
+"We care about your food and the earth. Our packaging is eco-friendly, natural, and consciously made.",1,Synthetic social media caption - Bangladeshi food packaging brand
+"This bagasse box is a green hero for your leftovers. Sustainable and naturally compostable.",1,Synthetic social media caption - Bangladeshi food packaging brand
+"Our food packaging is a green choice for a cleaner Bangladesh. Feel the earth's love in every pack.",1,Synthetic social media caption - Bangladeshi food packaging brand
+"Make every meal an eco-friendly moment. Our sustainable packaging is as gentle as your food.",1,Synthetic social media caption - Bangladeshi food packaging brand
+"This cup is a step toward a plastic-free planet. Natural, green, and perfectly sustainable.",1,Synthetic social media caption - Bangladeshi food packaging brand
+"We bring nature to your table with eco-friendly packaging. Good for food, good for the earth.",1,Synthetic social media caption - Bangladeshi food packaging brand
+"Our packaging is crafted with green energy and earth-friendly materials. Join the sustainable food movement.",1,Synthetic social media caption - Bangladeshi food packaging brand
+"This box is pure planet kindness. It's eco-friendly, natural-feeling, and ready to make a difference.",1,Synthetic social media caption - Bangladeshi food packaging brand
+"Serve with love for the planet. Our green packaging makes every meal a sustainable celebration.",1,Synthetic social media caption - Bangladeshi food packaging brand

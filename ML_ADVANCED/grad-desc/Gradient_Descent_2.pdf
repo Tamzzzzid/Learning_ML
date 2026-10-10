@@ -1,55 +1,25 @@
 %PDF-1.4
-%âãÏÓ
+%Äåòåë§ó ĞÄÆ
 1 0 obj
-<<
-/Producer (pypdf)
-/Title (Gradient Descent\072 Batch\054 Stochastic and Mini\055Batch)
-/Author (Tutorial)
-/Subject (Machine Learning optimization)
->>
+<< /Subject (Machine Learning optimization) /Author (Tutorial) /Title (Gradient Descent: Batch, Stochastic and Mini-Batch)
+/Producer (pypdf) >>
 endobj
 2 0 obj
-<<
-/Type /Pages
-/Count 22
-/Kids [ 4 0 R 21 0 R 23 0 R 44 0 R 46 0 R 66 0 R 68 0 R 80 0 R 82 0 R 86 0 R 88 0 R 91 0 R 94 0 R 96 0 R 99 0 R 104 0 R 106 0 R 114 0 R 116 0 R 121 0 R 123 0 R 125 0 R ]
->>
+<< /Kids [ 3 0 R 4 0 R 5 0 R 6 0 R 7 0 R 8 0 R 9 0 R 10 0 R 11 0 R 12 0 R
+13 0 R 14 0 R 15 0 R 16 0 R 17 0 R 18 0 R 19 0 R 20 0 R 21 0 R 22 0 R 23 0 R
+24 0 R ] /Count 22 /Type /Pages >>
+endobj
+25 0 obj
+<< /Pages 2 0 R /Type /Catalog >>
 endobj
 3 0 obj
-<<
-/Type /Catalog
-/Pages 2 0 R
->>
+<< /Parent 2 0 R /MediaBox [ 0 0 595 842 ] /Resources << /ProcSet [ /ImageB
+/ImageC /ImageI /PDF /Text ] /ColorSpace << /CSpg /DeviceGray /CSp /DeviceRGB
+/PCSp 26 0 R >> /Font << /F8 27 0 R /F7 28 0 R /F1 29 0 R >> /ExtGState <<
+/GSa 30 0 R >> >> /Contents 31 0 R /Annots [ ] /Type /Page >>
 endobj
-4 0 obj
-<<
-/Type /Page
-/Contents 5 0 R
-/Resources <<
-/ExtGState <<
-/GSa 6 0 R
->>
-/Font <<
-/F1 7 0 R
-/F7 8 0 R
-/F8 14 0 R
->>
-/ColorSpace <<
-/PCSp 20 0 R
-/CSp /DeviceRGB
-/CSpg /DeviceGray
->>
-/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
->>
-/Annots [ ]
-/MediaBox [ 0 0 595 842 ]
-/Parent 2 0 R
->>
-endobj
-5 0 obj
-<<
-/Length 18239
->>
+31 0 obj
+<< /Length 18239 >> 
 stream
 q
 0.0 0.0 595.2756 841.8898 re
@@ -771,72 +741,36 @@ Q
 
 endstream
 endobj
-6 0 obj
-<<
-/Type /ExtGState
-/SA true
-/SM 0.02
-/ca 1
-/CA 1
-/AIS false
-/SMask /None
+30 0 obj
+<< /AIS false /SM 0.02 /ca 1 /SMask /None /SA true /CA 1 /Type /ExtGState
 >>
 endobj
-7 0 obj
-<<
-/BaseFont /Helvetica
-/Encoding /WinAnsiEncoding
-/Name /F1
-/Subtype /Type1
-/Type /Font
+29 0 obj
+<< /Type /Font /Subtype /Type1 /Name /F1 /Encoding /WinAnsiEncoding /BaseFont
+/Helvetica >>
+endobj
+28 0 obj
+<< /ToUnicode 32 0 R /Encoding /Identity-H /DescendantFonts [ 33 0 R ] /BaseFont
+/DejaVuSans /Subtype /Type0 /Type /Font >>
+endobj
+33 0 obj
+<< /W [ 0 [ 600 863 684 698 752 295 748 632 318 557 695 775 337 787 603 611
+685 550 612 974 635 278 615 392 634 411 278 613 318 352 525 635 634 592 634
+521 684 635 579 361 818 770 318 592 635 636 318 1000 635 636 636 636 635 636
+636 780 592 636 636 636 636 500 460 390 390 337 686 838 278 638 1000 838 575
+634 838 632 611 838 337 989 401 732 531 838 275 656 636 636 ] ] /CIDToGIDMap
+/Identity /FontDescriptor 34 0 R /CIDSystemInfo << /Supplement 0 /Ordering
+(Identity) /Registry (Adobe) >> /BaseFont /DejaVuSans /Subtype /CIDFontType2
+/Type /Font >>
+endobj
+34 0 obj
+<< /CIDSet 35 0 R /CapHeight 928.2227 /StemV 43.94531 /Descent -235.8398 /Ascent
+928.2227 /Flags 4 /FontFile2 36 0 R /FontName /QWHAAA+DejaVuSans /ItalicAngle
+0 /FontBBox [ -1020.508 -462.8906 1793.457 1232.422 ] /Type /FontDescriptor
 >>
 endobj
-8 0 obj
-<<
-/Type /Font
-/Subtype /Type0
-/BaseFont /DejaVuSans
-/Encoding /Identity-H
-/DescendantFonts [ 9 0 R ]
-/ToUnicode 13 0 R
->>
-endobj
-9 0 obj
-<<
-/Type /Font
-/Subtype /CIDFontType2
-/BaseFont /DejaVuSans
-/CIDSystemInfo <<
-/Registry (Adobe)
-/Ordering (Identity)
-/Supplement 0
->>
-/FontDescriptor 10 0 R
-/CIDToGIDMap /Identity
-/W [ 0 [ 600 863 684 698 752 295 748 632 318 557 695 775 337 787 603 611 685 550 612 974 635 278 615 392 634 411 278 613 318 352 525 635 634 592 634 521 684 635 579 361 818 770 318 592 635 636 318 1000 635 636 636 636 635 636 636 780 592 636 636 636 636 500 460 390 390 337 686 838 278 638 1000 838 575 634 838 632 611 838 337 989 401 732 531 838 275 656 636 636 ] ]
->>
-endobj
-10 0 obj
-<<
-/Type /FontDescriptor
-/FontName /QWHAAA+DejaVuSans
-/Flags 4
-/FontBBox [ -1020.50781 -462.890625 1793.45703 1232.42187 ]
-/ItalicAngle 0
-/Ascent 928.222656
-/Descent -235.839843
-/CapHeight 928.222656
-/StemV 43.9453125
-/FontFile2 11 0 R
-/CIDSet 12 0 R
->>
-endobj
-11 0 obj
-<<
-/Length1 23504
-/Filter /FlateDecode
-/Length 9920
->>
+36 0 obj
+<< /Length 9920 /Filter /FlateDecode /Length1 23504 >> 
 stream
 xœí|	x×¹è9£‘L†Õx„±1‹°ÁÆL Ë»Œ7$yØ–%ÙØ’d‡$fI0BX‡PB¹\7¡„ÒHÓ&ÍÂšôêÛRÒä¥4-mxtyÄXÃıÏ™-ÆP$Íû¾'{¬3gÎù÷íü Œ€–!B…úø„òIÍ“`f\%u­µú©“Ş„ñï¥«·Íµ›´‹z`:ÌM«‡	Õ¥ Xû€îÇÔ7º—ì^“0î7!„«ì&ã„iÑ3zğïğ|_£q‰ÍG„Ú÷¼ÍØhmÏî 4k Âìü,R"¤LTn‰ïŠ_£Zf8BÌ@•B1€eö"²]?‰<×¹1ÕãYÄ*ªÍ4£TÄ_¿®
 Bñ‹Aø|5Â×?¿È‹AµÂ¶V¹¸B($828&28²–E½.Å¨ŞÂ– !W¯8UãFGRVv£A°.ãÈàè`ƒ£âIøqÜ†'} ´ÚŞWv÷P\í™¨İ‹XÔs–`”×Ã^q@=Ä‰8Z©ˆf~*ü•‰–^`fœ\í©Zİ­â¡ØÓ3·	Ë§ëú9e¬ò2Š„]accÇÆòAª&"<&!yZr˜*HÍÆ–<-2<"\[ër¯®·w`ÜÑñ
@@ -877,18 +811,14 @@ K´™|”F÷Qj¾TkÈ),6ğ°B§)0”ó…Y¼¦ œŸ«-ÈPó™eEºL½+ÔñÚü¢<m&ÌiÒóŠ3´Ù|ì+(4ğyÚ|­€
 >µÃ¿.hÜòúTZ4pqğw7ÿf0öíÁO{gfú©^ı|ÕsŸŞú_Æ·XYã­¬–Ä9êñRÄ¼“Ëù¿à'†
 endstream
 endobj
-12 0 obj
-<<
-/Length 12
->>
+35 0 obj
+<< /Length 12 >> 
 stream
 ÿÿÿÿÿÿÿÿÿÿÿ 
 endstream
 endobj
-13 0 obj
-<<
-/Length 973
->>
+32 0 obj
+<< /Length 973 >> 
 stream
 /CIDInit /ProcSet findresource begin
 12 dict begin
@@ -910,52 +840,27 @@ end
 
 endstream
 endobj
-14 0 obj
-<<
-/Type /Font
-/Subtype /Type0
-/BaseFont /DejaVuSans-Bold
-/Encoding /Identity-H
-/DescendantFonts [ 15 0 R ]
-/ToUnicode 19 0 R
+27 0 obj
+<< /ToUnicode 37 0 R /Encoding /Identity-H /DescendantFonts [ 38 0 R ] /BaseFont
+/DejaVuSans-Bold /Subtype /Type0 /Type /Font >>
+endobj
+38 0 obj
+<< /W [ 0 [ 600 821 493 675 716 343 678 712 478 348 830 595 593 762 712 838
+720 687 995 415 1103 682 716 712 435 343 457 457 683 716 652 652 521 580 637
+770 665 683 1042 380 872 837 850 774 372 696 380 696 716 696 696 696 924 645
+812 582 837 734 733 1000 838 696 724 771 500 716 775 850 400 774 696 343 696
+712 696 696 372 683 306 ] ] /CIDToGIDMap /Identity /FontDescriptor 39 0 R
+/CIDSystemInfo << /Supplement 0 /Ordering (Identity) /Registry (Adobe) >>
+/BaseFont /DejaVuSans-Bold /Subtype /CIDFontType2 /Type /Font >>
+endobj
+39 0 obj
+<< /CIDSet 40 0 R /CapHeight 928.2227 /StemV 43.94531 /Descent -235.8398 /Ascent
+928.2227 /Flags 4 /FontFile2 41 0 R /FontName /QIIAAA+DejaVuSans-Bold /ItalicAngle
+0 /FontBBox [ -1069.336 -415.0391 1975.098 1175.293 ] /Type /FontDescriptor
 >>
 endobj
-15 0 obj
-<<
-/Type /Font
-/Subtype /CIDFontType2
-/BaseFont /DejaVuSans-Bold
-/CIDSystemInfo <<
-/Registry (Adobe)
-/Ordering (Identity)
-/Supplement 0
->>
-/FontDescriptor 16 0 R
-/CIDToGIDMap /Identity
-/W [ 0 [ 600 821 493 675 716 343 678 712 478 348 830 595 593 762 712 838 720 687 995 415 1103 682 716 712 435 343 457 457 683 716 652 652 521 580 637 770 665 683 1042 380 872 837 850 774 372 696 380 696 716 696 696 696 924 645 812 582 837 734 733 1000 838 696 724 771 500 716 775 850 400 774 696 343 696 712 696 696 372 683 306 ] ]
->>
-endobj
-16 0 obj
-<<
-/Type /FontDescriptor
-/FontName /QIIAAA+DejaVuSans-Bold
-/Flags 4
-/FontBBox [ -1069.33593 -415.039062 1975.09765 1175.29296 ]
-/ItalicAngle 0
-/Ascent 928.222656
-/Descent -235.839843
-/CapHeight 928.222656
-/StemV 43.9453125
-/FontFile2 17 0 R
-/CIDSet 18 0 R
->>
-endobj
-17 0 obj
-<<
-/Length1 23092
-/Filter /FlateDecode
-/Length 9522
->>
+41 0 obj
+<< /Length 9522 /Filter /FlateDecode /Length1 23092 >> 
 stream
 xœí|	|TÕ½ğ9w–Äj²ˆˆÜI!0d_4`’L’d&L&!,™Ì’L˜ÌŒ³$D@@DEE¥,Rkı¬¯¥ÔöµšúÕÚÚgQ|TiEE >ÛŠÖççó)dN¾ÿ9÷ŞÌ$ŠˆË÷û}3™™sÏ=ç¿oç?#„âÑ¤@È\Ÿ·hÁöÇ`æx5¶yz\/zãÿ¡q¿jwÚmùFB7ï‡¹¢v˜ˆÇ…ë7ázR{ghù5é"4.ñLÏnSçîEè–™0ÑÛi[îGõh\Óõ‚×Öé¤>şW¸îG¨´aåV®©Rå«v „[ÅOÅŸ‹ƒ7*^¡P+9NùòüEøI-™J$Œ®sH@ÂÀ€:‘$âqølÂˆ>8ä"ßUºTûË8„Æj´št­FëR¢ş b|ÿ»ä»q7|öq@‰0rœUW}„ÒJWÇ©Ó„ŒÉš„â"m^JrŠfrÆä˜LJLIÎÏ+.*Ö¤i´ªó[v>~€ÜwâÏo¿ï~ì¾+V­\µò?ï\µ|ù[3
 ó3ßçš|U©iÇş;±ûµ×n™PDTNJÅxõİ~°vm¼ZƒS1˜ŸNÏ)W¢$à¥¥" T›T˜(zÅ¹ì¬œ¬ûóÈNì2,jºkLRb¦";yß´ğ@¤_ÙòóÎ‚\ŒJÊñ‚³Êß´ëQ6À£D«èäâ¢ÂÂt¶²–š1¹xrqQz~a ƒ™8E¥LIæöŞQ|;Î>ßQiÀn²­zÑ¢µ?ôx1Ş´§¾^^±9Ôjo†‚aœ½qş§géxn•7scdíAWV¶Ë±ï7ßYŒo±ffàä”,¬¹åÆë1îêÊœQİ ND‰hPF9¤Ôd 5c9‘SÈ–Ñ"H²q;Ù>¯iaøµ÷`|Ï†×‚‹›öfÍœ9+˜9ãY3}\ÓççöÚ³²ñ}X‰ğ•Óÿ{kı^+<z÷Ô[7È˜¸E;ĞjØóiì¢%;•-zÁ€ŞåwFÅƒünFi@e’6Y”^±†Ò*ˆ´j…”dµ	 3NÅ÷?w½Éô€y×ª5w­¹‹¼öı§0şşĞnüß#[pÉÌ÷}—ïºkölœ¦­ çrnº?¾§`Íîï=Ñûˆkv)¬êmA5°g*Ô€0&‹:J‘M"(R!ÛÕñ“&MÊºc¶S&ê–,ö¾àrpOE}øñ‡o+™47,Ø9¡lÙoËÉÂ]Ë$…«Ø¯ÚÍl	¤\œ¯Ñ‚
@@ -1005,18 +910,14 @@ W	Z¤ì/Ã³‡SŠsNÆ…Œ©›qå`ûSGÈ‡©ƒ|ßA¿p–³mjŒ•‰>S3,¿´2÷ÅĞ–ü@¶“.¸ëAbN´œÉÙ+y²bö²±
 ¿ ÚÀP zø+g”1öMÀ.…c5[¬ƒ¤,0Öt‚Şb¬§©´˜\ªOs%³€'UI¢—êˆÎ]l°Šî–¬0èk `=%&ø!kÁºËíNˆÚ¶äÜbhdaTŒ:fµb ®ò‚ãŠsli	<‹e1ºE6MÇ:1ô²ğÖ™H½.'DÀ %¾ ï£Á¤Ûd)°Ó'æ<!hó 2ØE½ˆ­‚XióÀ¶à ™CŠ—“¡?à†-İw‚‰`ÃlÀ½BJÃ)M1„(K48ˆôœA?d)w—ÓÓ“k4—1JÜ^—/Ğ)±ÎÄg•È¥BHhcÀ¾ï´e	<Ï*®/]:]é¿¸6u/ÖAÂÕÔA|´®²â/®ƒ¤ og‚rÎ¡@,ü—©•¹Vâ¿µ/êá+«•xÑa¿T­Ä_ÃZ‰ÖJÂUÖJüºà*j%şRµ’påµS+Åºïr	ò9‰kU.ñR¹$|©r‰B.;7^ë’‰÷ú„/]2ñ×´dâ¥’I¸ú’‰^2	WS2ñ#–LÂ)™x«¾±v®™’­¯¾ªêˆrşeª#^®„/Sñ±Õ‘pUÕ?bu$|™êˆëG,|øK>Â(|øË>Â><+|†Öÿ¼ 	Éëç°¢Ï‚¬/óo³Yßn¼²YïÌÁ¾ÕËbß¯úanè·…—ÿ†Ùİîeîl7«åYşv¶1¯ê~"ô1{%
 endstream
 endobj
-18 0 obj
-<<
-/Length 10
->>
+40 0 obj
+<< /Length 10 >> 
 stream
 ÿÿÿÿÿÿÿÿÿş
 endstream
 endobj
-19 0 obj
-<<
-/Length 910
->>
+37 0 obj
+<< /Length 910 >> 
 stream
 /CIDInit /ProcSet findresource begin
 12 dict begin
@@ -1038,38 +939,17 @@ end
 
 endstream
 endobj
-20 0 obj
+26 0 obj
 [ /Pattern /DeviceRGB ]
 endobj
-21 0 obj
-<<
-/Type /Page
-/Contents 22 0 R
-/Resources <<
-/ExtGState <<
-/GSa 6 0 R
->>
-/Font <<
-/F1 7 0 R
-/F7 8 0 R
-/F8 14 0 R
->>
-/ColorSpace <<
-/PCSp 20 0 R
-/CSp /DeviceRGB
-/CSpg /DeviceGray
->>
-/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
->>
-/Annots [ ]
-/MediaBox [ 0 0 595 842 ]
-/Parent 2 0 R
->>
+4 0 obj
+<< /Parent 2 0 R /MediaBox [ 0 0 595 842 ] /Resources << /ProcSet [ /ImageB
+/ImageC /ImageI /PDF /Text ] /ColorSpace << /CSpg /DeviceGray /CSp /DeviceRGB
+/PCSp 26 0 R >> /Font << /F8 27 0 R /F7 28 0 R /F1 29 0 R >> /ExtGState <<
+/GSa 30 0 R >> >> /Contents 42 0 R /Annots [ ] /Type /Page >>
 endobj
-22 0 obj
-<<
-/Length 35523
->>
+42 0 obj
+<< /Length 35523 >> 
 stream
 q
 0.0 0.0 595.2756 841.8898 re
@@ -2656,43 +2536,15 @@ Q
 
 endstream
 endobj
-23 0 obj
-<<
-/Type /Page
-/Contents 24 0 R
-/Resources <<
-/ExtGState <<
-/GSa 6 0 R
->>
-/Font <<
-/F1 7 0 R
-/F31 25 0 R
-/F32 31 0 R
-/F7 8 0 R
-/F8 14 0 R
->>
-/XObject <<
-/Im21 37 0 R
-/Im25 39 0 R
-/Im29 41 0 R
-/Im33 43 0 R
->>
-/ColorSpace <<
-/PCSp 20 0 R
-/CSp /DeviceRGB
-/CSpg /DeviceGray
->>
-/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
->>
-/Annots [ ]
-/MediaBox [ 0 0 595 842 ]
-/Parent 2 0 R
->>
+5 0 obj
+<< /Parent 2 0 R /MediaBox [ 0 0 595 842 ] /Resources << /ProcSet [ /ImageB
+/ImageC /ImageI /PDF /Text ] /ColorSpace << /CSpg /DeviceGray /CSp /DeviceRGB
+/PCSp 26 0 R >> /XObject << /Im33 43 0 R /Im29 44 0 R /Im25 45 0 R /Im21 46 0 R
+>> /Font << /F7 28 0 R /F32 47 0 R /F8 27 0 R /F31 48 0 R /F1 29 0 R >> /ExtGState
+<< /GSa 30 0 R >> >> /Contents 49 0 R /Annots [ ] /Type /Page >>
 endobj
-24 0 obj
-<<
-/Length 56594
->>
+49 0 obj
+<< /Length 56594 >> 
 stream
 q
 0.0 0.0 595.2756 841.8898 re
@@ -5198,52 +5050,26 @@ Q
 
 endstream
 endobj
-25 0 obj
-<<
-/Type /Font
-/Subtype /Type0
-/BaseFont /DejaVuSans-Oblique
-/Encoding /Identity-H
-/DescendantFonts [ 26 0 R ]
-/ToUnicode 30 0 R
+48 0 obj
+<< /ToUnicode 50 0 R /Encoding /Identity-H /DescendantFonts [ 51 0 R ] /BaseFont
+/DejaVuSans-Oblique /Subtype /Type0 /Type /Font >>
+endobj
+51 0 obj
+<< /W [ 0 [ 600 352 612 411 634 974 635 278 635 615 787 318 635 613 392 318
+278 521 550 634 592 318 635 592 818 634 635 611 390 579 838 390 989 686 775
+770 863 361 636 575 275 337 278 636 636 636 636 525 557 838 337 295 695 1000
+632 592 636 636 ] ] /CIDToGIDMap /Identity /FontDescriptor 52 0 R /CIDSystemInfo
+<< /Supplement 0 /Ordering (Identity) /Registry (Adobe) >> /BaseFont /DejaVuSans-Oblique
+/Subtype /CIDFontType2 /Type /Font >>
+endobj
+52 0 obj
+<< /CIDSet 53 0 R /CapHeight 928.2227 /StemV 43.94531 /Descent -235.8398 /Ascent
+928.2227 /Flags 4 /FontFile2 54 0 R /FontName /QOIAAA+DejaVuSans-Oblique /ItalicAngle
+0 /FontBBox [ -1015.625 -350.0977 1659.18 1067.871 ] /Type /FontDescriptor
 >>
 endobj
-26 0 obj
-<<
-/Type /Font
-/Subtype /CIDFontType2
-/BaseFont /DejaVuSans-Oblique
-/CIDSystemInfo <<
-/Registry (Adobe)
-/Ordering (Identity)
-/Supplement 0
->>
-/FontDescriptor 27 0 R
-/CIDToGIDMap /Identity
-/W [ 0 [ 600 352 612 411 634 974 635 278 635 615 787 318 635 613 392 318 278 521 550 634 592 318 635 592 818 634 635 611 390 579 838 390 989 686 775 770 863 361 636 575 275 337 278 636 636 636 636 525 557 838 337 295 695 1000 632 592 636 636 ] ]
->>
-endobj
-27 0 obj
-<<
-/Type /FontDescriptor
-/FontName /QOIAAA+DejaVuSans-Oblique
-/Flags 4
-/FontBBox [ -1015.625 -350.097656 1659.17968 1067.87109 ]
-/ItalicAngle 0
-/Ascent 928.222656
-/Descent -235.839843
-/CapHeight 928.222656
-/StemV 43.9453125
-/FontFile2 28 0 R
-/CIDSet 29 0 R
->>
-endobj
-28 0 obj
-<<
-/Length1 21656
-/Filter /FlateDecode
-/Length 8681
->>
+54 0 obj
+<< /Length 8681 /Filter /FlateDecode /Length1 21656 >> 
 stream
 xœí|xSU¾ïZ{ç[JK«(²ÓPÚBÚBK(IÛ”¦M“’¦å]š&;mÚ¼š¤M(BG½Èà†™ƒŒz°ú9êEÇÃ8Ãáx</*Ç3zï83wÎ73ŠMzÿkí½“´çûncšµ×^ëÿøıŸ{5ˆ0Bhº±Y‹Šÿı/0s¼›Û½ıî½Ë=0ş„2"‚Ãån2	MY	se0¡îWş®ïƒë¾HßuK'ş
 ®Ÿ…ëO¼§ãàîıÊÜ×½>G_-Ap•×¼ßáÏ99®ç!´¸aÅ|R"¤,Q>ŒÊğÍäsØÈ¾ƒÜÌd„˜kT,Ë*®a¿C†m(6ÌÍà5
@@ -5281,18 +5107,14 @@ S£QÇl¦Fb‘j›Ä%ö´VSh<‰ñ,’¼ÄFdî|ï€Ud·¤`•Ñ`‚D˜àF¬ï2ö9…`„ø¶Übj¤iTÌ:êµb ^æ
 ŞşBX"µŒJâñ»!Ÿ¤:…Ï)—[…ßN‰».j/ä9v\WÜ:]ê¿¡¸:}'öAüåôA\²â/³âÎïƒ¤$ï¤”ÂrÍ£AM6,Ü•ôJ¼Ü+qß^‰íğµõJœ°WÔ+qW±Wâ’½™½7¢/¸Œ^‰»P¯Ä_z¯Ä¥ôJ©á;¢]‚zIâjµKœÔ.ñWÔ.q#Ä¥ÏW»eâüşŠ[&îª¶LœÔ2ñ—ß2q£[&şrZ&nÌ–‰ÿ*-g74××Z‰Ø†šËê¸¤æWÒqrwÄ_IwÄ¥vGüeuGÜ˜İ%İqÖ’h|¸6>üWh|¸‹7>ü%4>m|Fö¿¡‰Èë—Ò¦+„Â+ù7ƒEôÜ®ŞEôìÌEÿªWHÿ¾„¹‘-¼ø¿0,Šzº<EHV}…Á`‘”1¯ì‡¢ÿXr˜€
 endstream
 endobj
-29 0 obj
-<<
-/Length 8
->>
+53 0 obj
+<< /Length 8 >> 
 stream
 ÿÿÿÿÿÿÿÀ
 endstream
 endobj
-30 0 obj
-<<
-/Length 763
->>
+50 0 obj
+<< /Length 763 >> 
 stream
 /CIDInit /ProcSet findresource begin
 12 dict begin
@@ -5314,52 +5136,26 @@ end
 
 endstream
 endobj
-31 0 obj
-<<
-/Type /Font
-/Subtype /Type0
-/BaseFont /DejaVuSerif
-/Encoding /Identity-H
-/DescendantFonts [ 32 0 R ]
-/ToUnicode 36 0 R
+47 0 obj
+<< /ToUnicode 55 0 R /Encoding /Identity-H /DescendantFonts [ 56 0 R ] /BaseFont
+/DejaVuSerif /Subtype /Type0 /Type /Font >>
+endobj
+56 0 obj
+<< /W [ 0 [ 600 565 318 838 578 636 838 636 564 636 1000 644 664 390 390 337
+948 318 707 320 318 565 838 310 838 599 517 402 602 596 320 640 592 478 565
+513 838 640 560 644 856 644 390 640 500 527 390 ] ] /CIDToGIDMap /Identity
+/FontDescriptor 57 0 R /CIDSystemInfo << /Supplement 0 /Ordering (Identity)
+/Registry (Adobe) >> /BaseFont /DejaVuSerif /Subtype /CIDFontType2 /Type /Font
 >>
 endobj
-32 0 obj
-<<
-/Type /Font
-/Subtype /CIDFontType2
-/BaseFont /DejaVuSerif
-/CIDSystemInfo <<
-/Registry (Adobe)
-/Ordering (Identity)
-/Supplement 0
->>
-/FontDescriptor 33 0 R
-/CIDToGIDMap /Identity
-/W [ 0 [ 600 565 318 838 578 636 838 636 564 636 1000 644 664 390 390 337 948 318 707 320 318 565 838 310 838 599 517 402 602 596 320 640 592 478 565 513 838 640 560 644 856 644 390 640 500 527 390 ] ]
+57 0 obj
+<< /CIDSet 58 0 R /CapHeight 928.2227 /StemV 43.94531 /Descent -235.8398 /Ascent
+928.2227 /Flags 4 /FontFile2 59 0 R /FontName /QCIAAA+DejaVuSerif /ItalicAngle
+0 /FontBBox [ -769.5313 -346.6797 2105.469 1109.375 ] /Type /FontDescriptor
 >>
 endobj
-33 0 obj
-<<
-/Type /FontDescriptor
-/FontName /QCIAAA+DejaVuSerif
-/Flags 4
-/FontBBox [ -769.53125 -346.679687 2105.46875 1109.375 ]
-/ItalicAngle 0
-/Ascent 928.222656
-/Descent -235.839843
-/CapHeight 928.222656
-/StemV 43.9453125
-/FontFile2 34 0 R
-/CIDSet 35 0 R
->>
-endobj
-34 0 obj
-<<
-/Length1 13204
-/Filter /FlateDecode
-/Length 6566
->>
+59 0 obj
+<< /Length 6566 /Filter /FlateDecode /Length1 13204 >> 
 stream
 xœÅZxTÕ?çÎ‹­Œ!D¥ÈMb2 “I „@d23I&LfÂÌ$HâÍÌÌûsg" ¥nW(¾•`•R–õ³®"ëöÃ®¢`mw«V­u­¢ÛÏb?µ>ÖVwW¹ìÿœ{æID¿v÷Û‰É=ÿù?~ÿ×¹ƒ#„¦¡ï B_ÓÂÄCŸü	VvÀïÀp|,¤ûåÖC0~¡óş%,
 Añ!çuÍxÖ‡aaÚé¿‚9ì£KÂ‰ÌÆ7´Æw2Nƒùq) \uËàL˜ÿæ×$„)Ô‚–"tş%0ç“BBÜ|Kíó0·#TãFX{¾éÒµèv#„/VŸš×Pˆ;!N¯×èô:ÓşéO{Ñ'+´ˆN¨/ä¢•ˆ?}Z?S™‰Ç	|â„îÿİkdq(¤Ü¥éöƒ•„*5ÆúcMH‹NÉšÙ§ş ÜeøæçNëç#îô„²D{½>„ôÈ´TÖi4u•m¸®µ¦ª³‡Ş 7ÕšL­-³ªgµÌj[Œß{àƒÌsÏeìTä1üşƒø2|Ùıx×¨ráÂå+’MZ¬×ÏùÖå‹ëx}H¹	k•SG5¿ŠÅ&ë¹ã±ØIÿsf˜ñœã[cşb¢ñë8¤;®¹i\SE^×q
@@ -5383,18 +5179,14 @@ nÃúT4¿wÓÊ¯.8G¹‘“²§–ãgï´®t÷mÛåöh7àŠ¥_ŒSé£o*/UÅaeÿì®ë6o¿k wvA<½|ú„¡	}şáQ3
 q8&çÕ,M¨\CL¥#pd4É@1á…,¬¦#×²Vœf­ªÜ"¥\ÿ´(§ SEFÄø˜hÓ¤ŸQM"É”N0Ó)|L{®†føaÊ<†Kéa_ñ×ü«h½Çà·‰Şƒôû8ın4k¥ßóıßP›F#±HSÊáFK*œjb5ù/ı—kô?é"
 endstream
 endobj
-35 0 obj
-<<
-/Length 6
->>
+58 0 obj
+<< /Length 6 >> 
 stream
 ÿÿÿÿÿş
 endstream
 endobj
-36 0 obj
-<<
-/Length 686
->>
+55 0 obj
+<< /Length 686 >> 
 stream
 /CIDInit /ProcSet findresource begin
 12 dict begin
@@ -5416,18 +5208,9 @@ end
 
 endstream
 endobj
-37 0 obj
-<<
-/Type /XObject
-/Subtype /Image
-/Width 696
-/Height 56
-/BitsPerComponent 8
-/ColorSpace /DeviceRGB
-/SMask 38 0 R
-/Filter /DCTDecode
-/Length 2428
->>
+46 0 obj
+<< /Filter /DCTDecode /ColorSpace /DeviceRGB /Length 2428 /SMask 60 0 R /BitsPerComponent
+8 /Type /XObject /Height 56 /Subtype /Image /Width 696 >> 
 stream
 ÿØÿà JFIF  d d  ÿÛ C 		
 
@@ -5483,33 +5266,16 @@ stream
 °xKQ’M˜{wEË€CcÓ¯=?(¢¹±Q²‹õı¨½ÿÙ
 endstream
 endobj
-38 0 obj
-<<
-/Type /XObject
-/Subtype /Image
-/Width 696
-/Height 56
-/BitsPerComponent 8
-/ColorSpace /DeviceGray
-/Filter /FlateDecode
-/Length 174
->>
+60 0 obj
+<< /Filter /FlateDecode /ColorSpace /DeviceGray /Length 174 /BitsPerComponent
+8 /Type /XObject /Height 56 /Subtype /Image /Width 696 >> 
 stream
 xœíÒA ! ±}œ¼àÿ>“´z/Ô|óCÎö– o)ò–"o)ò–"o)ò–"o)ò–"o)ò–"o)ò–"o)ò–"o)ò–"o)ò–"o)ò–"o)ò–"o)ò–"o)ò–"o)ò–"o)ò–"o)ò–"o)ò–"o)ò–"o)ò–"o)ò–"o)ò–"o)ò–"o)ò–"o)ò–"o)ò–"o)ò–¢=rÖ<{Óg“
 endstream
 endobj
-39 0 obj
-<<
-/Type /XObject
-/Subtype /Image
-/Width 696
-/Height 57
-/BitsPerComponent 8
-/ColorSpace /DeviceRGB
-/SMask 40 0 R
-/Filter /DCTDecode
-/Length 3179
->>
+45 0 obj
+<< /Filter /DCTDecode /ColorSpace /DeviceRGB /Length 3179 /SMask 61 0 R /BitsPerComponent
+8 /Type /XObject /Height 57 /Subtype /Image /Width 696 >> 
 stream
 ÿØÿà JFIF  d d  ÿÛ C 		
 
@@ -5575,33 +5341,16 @@ J(»€À
 Üôã­&Ã€ppN:Sè Øgå?/^:RùMœmlã=;S¨ Øãå?7N:Ñ±±œg;Óè Øgå?/^:RùMœmlã=;S¨ ylqòŸ›§hØØÎÇJ}OÄvÏÿ ¦¬åTµpÛÈ8À¢¯È¿©×œÿ ú-¨®\OCJ3¼œ;Yı÷ÿ #ÿÙ
 endstream
 endobj
-40 0 obj
-<<
-/Type /XObject
-/Subtype /Image
-/Width 696
-/Height 57
-/BitsPerComponent 8
-/ColorSpace /DeviceGray
-/Filter /FlateDecode
-/Length 175
->>
+61 0 obj
+<< /Filter /FlateDecode /ColorSpace /DeviceGray /Length 175 /BitsPerComponent
+8 /Type /XObject /Height 57 /Subtype /Image /Width 696 >> 
 stream
 xœíÒA ! ±åqzğoêĞ1I«¡ç@Íšr¶·yK‘·yK‘·yK‘·yK‘·yK‘·yK‘·yK‘·yK‘·yK‘·yK‘·yK‘·yK‘·yK‘·yK‘·yK‘·yK‘·yK‘·yK‘·yK‘·yK‘·yK‘·yK‘·yK‘·yK‘·yK‘·yK‘·yKÑ9ß<÷{
 endstream
 endobj
-41 0 obj
-<<
-/Type /XObject
-/Subtype /Image
-/Width 696
-/Height 54
-/BitsPerComponent 8
-/ColorSpace /DeviceRGB
-/SMask 42 0 R
-/Filter /DCTDecode
-/Length 4692
->>
+44 0 obj
+<< /Filter /DCTDecode /ColorSpace /DeviceRGB /Length 4692 /SMask 62 0 R /BitsPerComponent
+8 /Type /XObject /Height 54 /Subtype /Image /Width 696 >> 
 stream
 ÿØÿà JFIF  d d  ÿÛ C 		
 
@@ -5624,33 +5373,17 @@ Au"¢¨‘Â£nQ¸à_­2Š.+5Ô®‰\?7Ö”ŞÌ\·›&æ]¤î9#ÓéQQ@ÉîU(D²ÜùËôô¤ûT›6ù·vìn8Ï¯
 úçÌàû~´æø¯¢†“ªîÉ·Œ>ÿ ¼ãõ¢Š9˜¬ñ_E.™ R¹b-ã$7 g#ß¥"|XÑŠG¹u0Äüà@„(õ¼äşTQG3„o‹8L&¦X6¤ïàûsõ§7Å};í¡P¹Bmã¡gßŸ¥QÌÅ`_Šú)h÷.¨Şo*}ï9ı)£âÆå¡)©‡-†B`/¨>g'Û­QÌÆ­ñcF&ÕÔÉ÷`À€0÷ıç­)ø¯¢y„ªlÙ~ÏKzcÌéïŸÂŠ(æb°‰ñ_F&-Ë©€sæbŞ3·Ó¼çô£şÆ³;5=Ûñ!1·×>g_oÖŠ(æc°7Å}pº™Æ<¼ÛÆ7zç÷œ~¥ôO05M›2OÙãÈoLy=óøQEÌ>+èÅcÜº˜$Ÿ3!Ú;c÷œş”‹?–Ä&§¸6y	‚¾¤ùœn~´QG3…oŠú(i0º¡ ~ì›xÁcïûÎ?Zâ¾Š]7P)\¹ñ’­è™È÷ãéE);…„_‹9=É©†-ó£Ô3“íÇÖ†ø±£„“jjeƒ|€À€0õ'ÌàûsE”‡bsâ–“w£ßZÁôu9%Sa#Ğ9¢Š+»»FÔö?ÿÙ
 endstream
 endobj
-42 0 obj
-<<
-/Type /XObject
-/Subtype /Image
-/Width 696
-/Height 54
-/BitsPerComponent 8
-/ColorSpace /DeviceGray
-/Filter /FlateDecode
-/Length 420
->>
+62 0 obj
+<< /Filter /FlateDecode /ColorSpace /DeviceGray /Length 420 /BitsPerComponent
+8 /Type /XObject /Height 54 /Subtype /Image /Width 696 >> 
 stream
 xœíÒKNDQ/ ™±ü
 ¿ˆçh»1Æ!zkJ”9™t+ŠJºgUƒm“ÌÑæ1â˜ëh2§qŸ™ËXæsÄ>»˜e6±ÉCÄ)Û˜gã!bœ9»<Er·™³èrñœ«XdFìrûo?˜Äö¿Ühb=` í=°ˆUï?çúÜõXÇ×Ñ/ÀÎİÂİÂİÂİÂİÂİÂİÂİÂİÂİÂİÂİÂİÂİÂİÂİÂİÂİÂİÂİÂİÂİÂİÂİÂİÂİÂİÂİÂİÂİÂİÂİÂİÂİÂİÂİÂİÂİÂİÂİÂİÂİÂİÂİÂİÂİÂİÂİÂİÂİÂÑÙHóuõ"½ÕJÓªsíë óª™–õ.euº©ú®ûz’>j¡¦JúY;]VMÔÖ«ôZ­ÆUWÚÕQªj4¯éT[]Wİhó·7éeÀÀÓ€ã€CïË×ÚèzŒLµ0°ø|à›¾Œ G¿Œ´–
 endstream
 endobj
 43 0 obj
-<<
-/Type /XObject
-/Subtype /Image
-/Width 1080
-/Height 600
-/BitsPerComponent 8
-/ColorSpace /DeviceRGB
-/Filter /DCTDecode
-/Length 76916
->>
+<< /Filter /DCTDecode /ColorSpace /DeviceRGB /Length 76916 /BitsPerComponent
+8 /Type /XObject /Height 600 /Subtype /Image /Width 1080 >> 
 stream
 ÿØÿà JFIF  d d  ÿÛ C 		
 
@@ -6161,36 +5894,14 @@ x#á×Š¼Q>­àß‡1´^ÓšÒŞ!§«(R<Äd—
 (¢€?ÿÙ
 endstream
 endobj
-44 0 obj
-<<
-/Type /Page
-/Contents 45 0 R
-/Resources <<
-/ExtGState <<
-/GSa 6 0 R
->>
-/Font <<
-/F1 7 0 R
-/F31 25 0 R
-/F7 8 0 R
-/F8 14 0 R
->>
-/ColorSpace <<
-/PCSp 20 0 R
-/CSp /DeviceRGB
-/CSpg /DeviceGray
->>
-/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
->>
-/Annots [ ]
-/MediaBox [ 0 0 595 842 ]
-/Parent 2 0 R
->>
+6 0 obj
+<< /Parent 2 0 R /MediaBox [ 0 0 595 842 ] /Resources << /ProcSet [ /ImageB
+/ImageC /ImageI /PDF /Text ] /ColorSpace << /CSpg /DeviceGray /CSp /DeviceRGB
+/PCSp 26 0 R >> /Font << /F7 28 0 R /F8 27 0 R /F31 48 0 R /F1 29 0 R >> /ExtGState
+<< /GSa 30 0 R >> >> /Contents 63 0 R /Annots [ ] /Type /Page >>
 endobj
-45 0 obj
-<<
-/Length 27862
->>
+63 0 obj
+<< /Length 27862 >> 
 stream
 q
 0.0 0.0 595.2756 841.8898 re
@@ -7485,44 +7196,16 @@ Q
 
 endstream
 endobj
-46 0 obj
-<<
-/Type /Page
-/Contents 47 0 R
-/Resources <<
-/ExtGState <<
-/GSa 6 0 R
->>
-/Font <<
-/F1 7 0 R
-/F31 25 0 R
-/F32 31 0 R
-/F57 48 0 R
-/F58 54 0 R
-/F7 8 0 R
-/F8 14 0 R
->>
-/XObject <<
-/Im47 60 0 R
-/Im51 62 0 R
-/Im55 64 0 R
->>
-/ColorSpace <<
-/PCSp 20 0 R
-/CSp /DeviceRGB
-/CSpg /DeviceGray
->>
-/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
->>
-/Annots [ ]
-/MediaBox [ 0 0 595 842 ]
-/Parent 2 0 R
->>
+7 0 obj
+<< /Parent 2 0 R /MediaBox [ 0 0 595 842 ] /Resources << /ProcSet [ /ImageB
+/ImageC /ImageI /PDF /Text ] /ColorSpace << /CSpg /DeviceGray /CSp /DeviceRGB
+/PCSp 26 0 R >> /XObject << /Im55 64 0 R /Im51 65 0 R /Im47 66 0 R >> /Font
+<< /F7 28 0 R /F58 67 0 R /F32 47 0 R /F57 68 0 R /F8 27 0 R /F31 48 0 R /F1
+29 0 R >> /ExtGState << /GSa 30 0 R >> >> /Contents 69 0 R /Annots [ ] /Type
+/Page >>
 endobj
-47 0 obj
-<<
-/Length 128339
->>
+69 0 obj
+<< /Length 128339 >> 
 stream
 q
 0.0 0.0 595.2756 841.8898 re
@@ -13409,52 +13092,23 @@ Q
 
 endstream
 endobj
-48 0 obj
-<<
-/Type /Font
-/Subtype /Type0
-/BaseFont /DejaVuSansMono
-/Encoding /Identity-H
-/DescendantFonts [ 49 0 R ]
-/ToUnicode 53 0 R
+68 0 obj
+<< /ToUnicode 70 0 R /Encoding /Identity-H /DescendantFonts [ 71 0 R ] /BaseFont
+/DejaVuSansMono /Subtype /Type0 /Type /Font >>
+endobj
+71 0 obj
+<< /DW 602 /CIDToGIDMap /Identity /FontDescriptor 72 0 R /CIDSystemInfo <<
+/Supplement 0 /Ordering (Identity) /Registry (Adobe) >> /BaseFont /DejaVuSansMono
+/Subtype /CIDFontType2 /Type /Font >>
+endobj
+72 0 obj
+<< /CIDSet 73 0 R /CapHeight 928.2227 /StemV 43.94531 /Descent -235.8398 /Ascent
+928.2227 /Flags 4 /FontFile2 74 0 R /FontName /QEHAAA+DejaVuSansMono /ItalicAngle
+0 /FontBBox [ -558.5938 -374.5117 717.7734 1028.32 ] /Type /FontDescriptor
 >>
 endobj
-49 0 obj
-<<
-/Type /Font
-/Subtype /CIDFontType2
-/BaseFont /DejaVuSansMono
-/CIDSystemInfo <<
-/Registry (Adobe)
-/Ordering (Identity)
-/Supplement 0
->>
-/FontDescriptor 50 0 R
-/CIDToGIDMap /Identity
-/DW 602
->>
-endobj
-50 0 obj
-<<
-/Type /FontDescriptor
-/FontName /QEHAAA+DejaVuSansMono
-/Flags 4
-/FontBBox [ -558.59375 -374.511718 717.773437 1028.32031 ]
-/ItalicAngle 0
-/Ascent 928.222656
-/Descent -235.839843
-/CapHeight 928.222656
-/StemV 43.9453125
-/FontFile2 51 0 R
-/CIDSet 52 0 R
->>
-endobj
-51 0 obj
-<<
-/Length1 13816
-/Filter /FlateDecode
-/Length 7324
->>
+74 0 obj
+<< /Length 7324 /Filter /FlateDecode /Length1 13816 >> 
 stream
 xœÅZxSU?çæ&­U±¡/Û–¶tZhi(4IÛ´iR’´”wÓä¦	äE-‘A^2ÊTdÑ­|²uüœ‹Îàhey_İíç²³ŠR\EdçSG¥½ìÿœ{óhAôsv¿Mz’sÏıŸÿã÷@!”Œ~Šd™,%¥ÿìEXyFs»§Ëyh¦¦
 æç§‹·9ìçõ•¥ÁªpÁBÒÛÌf¸×S\ŞğÚ‰EEr¸^×=~»í¡‰°¥×ÂõZ¯mm ÍG°?ıpÍùl^¾õãOAVúeg ÌàGì——ÉGß%~ËŞENf<BÌÍŠ›dÉ,Ã°£ü«ï o®0M%ª4:u´ qW¯*Ò…t¼/É‹‡Z>{õ,¹‹äv³.ùÓ`eh§ÌVæe+³],É&$ìN÷õß‚ŠB„QÿÕsl»e#”§HRpùÊÔÊŠìÒ¬Ì¬Œü‚ü‚œ$E†"+³¬´²¢’Í«36.®ìÜµk'–/l0˜êjë–?·|9^¹ì¹•õlUzŞ¿§ãôıû32‹^_p×DXsút`Í]çƒ‰¨çêU6E1İ„mYF®¢ ¿R™]ÍlÀ%Ó¿{á—K–aá>‹w¯Ÿ7?^½êÙ7«¶€®¹ ë8T»sAİ,Â"4+¯Tæ–ÃaV>³²¢¬¬”Ïå“Ê+*+2³è›9:÷©…ŒçÍõìiif¹§eé†_9÷ß÷Åß™*í/V®l]Ê¯\vŞn›—§LeÊpåì€³r^í~¥Ğ0²ñ _<·µx¥Í6iË¼{&L˜ÙW†§šKõu`Û è§ ıJ@;‚]¾]‘àæ åpXæÀE~e>è
@@ -13476,18 +13130,14 @@ I9l¤“Çc¼æó_êMÏ|şÙNÍ¼@ıèg'ğ+ç×ß‡hØe5ã-[…o…jæí‘÷æÍİ±³Zƒ§0oVåı²ø İşÒvScZ–Ó
 Õf¨Kü	;ˆM€'qQÒ—øˆ¬]@EvKjuj0´5®¡…èÒ­µó0‰m)¹ÅòHK©X?U4jÅ" !\ãƒÄ×èâ2‹v±ÂÅ“‹´d•T~Iù€è†n$–_GU0DJ	ä‡Ÿ“Nwˆf:´A¯_ê{!›„Á®ÔK›¶…bjN¨hCİ°¥3èC1álXºï•ZqPjUc- RÆêäCèTîŞÓU´AÒÏ¨&nŸÓôJ¦Søìá9ÑæÚ)sî¶s)ÿÈ¿Š–ĞSğj%ôäè ¿ÇÓßF°6úw¾ÿjI§{µ»ÄåpmqÀ(‘j2ù/	ÿŞá±
 endstream
 endobj
-52 0 obj
-<<
-/Length 8
->>
+73 0 obj
+<< /Length 8 >> 
 stream
 ÿÿÿÿÿÿÿà
 endstream
 endobj
-53 0 obj
-<<
-/Length 770
->>
+70 0 obj
+<< /Length 770 >> 
 stream
 /CIDInit /ProcSet findresource begin
 12 dict begin
@@ -13509,52 +13159,23 @@ end
 
 endstream
 endobj
-54 0 obj
-<<
-/Type /Font
-/Subtype /Type0
-/BaseFont /DejaVuSansMono-Oblique
-/Encoding /Identity-H
-/DescendantFonts [ 55 0 R ]
-/ToUnicode 59 0 R
+67 0 obj
+<< /ToUnicode 75 0 R /Encoding /Identity-H /DescendantFonts [ 76 0 R ] /BaseFont
+/DejaVuSansMono-Oblique /Subtype /Type0 /Type /Font >>
+endobj
+76 0 obj
+<< /DW 602 /CIDToGIDMap /Identity /FontDescriptor 77 0 R /CIDSystemInfo <<
+/Supplement 0 /Ordering (Identity) /Registry (Adobe) >> /BaseFont /DejaVuSansMono-Oblique
+/Subtype /CIDFontType2 /Type /Font >>
+endobj
+77 0 obj
+<< /CIDSet 78 0 R /CapHeight 928.2227 /StemV 43.94531 /Descent -235.8398 /Ascent
+928.2227 /Flags 4 /FontFile2 79 0 R /FontName /QQHAAA+DejaVuSansMono-Oblique
+/ItalicAngle 0 /FontBBox [ -421.3867 -374.5117 746.0938 997.5586 ] /Type /FontDescriptor
 >>
 endobj
-55 0 obj
-<<
-/Type /Font
-/Subtype /CIDFontType2
-/BaseFont /DejaVuSansMono-Oblique
-/CIDSystemInfo <<
-/Registry (Adobe)
-/Ordering (Identity)
-/Supplement 0
->>
-/FontDescriptor 56 0 R
-/CIDToGIDMap /Identity
-/DW 602
->>
-endobj
-56 0 obj
-<<
-/Type /FontDescriptor
-/FontName /QQHAAA+DejaVuSansMono-Oblique
-/Flags 4
-/FontBBox [ -421.386718 -374.511718 746.09375 997.558593 ]
-/ItalicAngle 0
-/Ascent 928.222656
-/Descent -235.839843
-/CapHeight 928.222656
-/StemV 43.9453125
-/FontFile2 57 0 R
-/CIDSet 58 0 R
->>
-endobj
-57 0 obj
-<<
-/Length1 15096
-/Filter /FlateDecode
-/Length 8323
->>
+79 0 obj
+<< /Length 8323 /Filter /FlateDecode /Length1 15096 >> 
 stream
 xœÅ{|TÕ¹ï^{ÏL <ÅÙ“1/2É@&È“ÉÌ$™LÂÌä2Ìye	c"Z	ˆEAªÈQÊ‰zµ”‚–{|p•k¹”c-=zzo=µÖz­¥ìÜo­½g2‰ˆşzïùİLvfíµ×ú¾ÿ÷şÖæ…(ŠŠ§î¡Šj5«Š?ùáÇ„™ïÂÕÑïé{°µ¡ÆÿAQiãNÎê°ÿÚPNQéû`®Ì		õ´îÿîïrzB[KA¸ÿ„¢åöÙ­çzN'QÔípOİë±nõS:JCQKüpÏz­îWŞâ
 ¸zò>
@@ -13594,18 +13215,14 @@ sdş‘E*áf‚—d¥˜~qú ï†j$¤_ÇY0ˆS	Ä‡'“aWD:”AO¬{A«˜Á®è*È—V7lFaÎ¨HAô\°e8à
 A2a­a˜¸¶‰¥8 –ª¹`.sñ¸ *•kˆsÁÚ ®g‰ËÛçxDÑ‰úì¡ŠH±ı„¸÷ú‹ØÄÿ›U‘.x .éä}\y7ê‡¹Ùïùnıo¨ªa×€Kå‚t¸µÈïô«ÄœLQÔÿ•·¢
 endstream
 endobj
-58 0 obj
-<<
-/Length 9
->>
+78 0 obj
+<< /Length 9 >> 
 stream
 ÿÿÿÿÿÿÿÿ 
 endstream
 endobj
-59 0 obj
-<<
-/Length 805
->>
+75 0 obj
+<< /Length 805 >> 
 stream
 /CIDInit /ProcSet findresource begin
 12 dict begin
@@ -13627,18 +13244,9 @@ end
 
 endstream
 endobj
-60 0 obj
-<<
-/Type /XObject
-/Subtype /Image
-/Width 696
-/Height 38
-/BitsPerComponent 8
-/ColorSpace /DeviceRGB
-/SMask 61 0 R
-/Filter /DCTDecode
-/Length 3584
->>
+66 0 obj
+<< /Filter /DCTDecode /ColorSpace /DeviceRGB /Length 3584 /SMask 80 0 R /BitsPerComponent
+8 /Type /XObject /Height 38 /Subtype /Image /Width 696 >> 
 stream
 ÿØÿà JFIF  d d  ÿÛ C 		
 
@@ -13668,34 +13276,17 @@ W,|„È>ƒ÷œÒš¿4‚©”Ô'ç!G·ÏÏéEs1Y|XÒ>#ÔKòƒ
 øQ$Pÿ ?­8üXÑ÷¶SÚ*|„É>‡÷œÒŠ(æad"üXÑË&SR Ÿ!Ûôùùı)Å'`ıŞ£»vòS}~ÿ _oÖŠ(æad+|XÒ “	©}ÌÂƒw×çãõ¥ÿ …±£oûºİ¹Ï™İé3§¿éEù˜Y¿4ƒåå5!œïÄ(vúcççô¤ÿ …±¤l?»ÔwnÀJco®wõöıh¢““­ñcGğš‘îf¾¿?­(ø±£ï\¦§·nIò ú¬éïúQE>fCWâÆU3¢	?>!C´{|üş”7Å$#â=D°o”P=OÏÁöæŠ)s0²ß4pÏ„ÔÊòÇß÷œ~´‹ñcG,™ML>r BTû~óŸÒŠ)ó0²+ë´ËßİÛÂ—â{¨#º$s¸¸íEW-fÛW5¦ÿÙ
 endstream
 endobj
-61 0 obj
-<<
-/Type /XObject
-/Subtype /Image
-/Width 696
-/Height 38
-/BitsPerComponent 8
-/ColorSpace /DeviceGray
-/Filter /FlateDecode
-/Length 243
->>
+80 0 obj
+<< /Filter /FlateDecode /ColorSpace /DeviceGray /Length 243 /BitsPerComponent
+8 /Type /XObject /Height 38 /Subtype /Image /Width 696 >> 
 stream
 xœíÒÁmÂ`a_( ÑÏÆ6Ô@ò')À—Xi¾ó®Şe‰f×½%œ½İ
 ÈnEd·"²[Ù­ˆìVDv+"»‘İŠÈnEd·"²[Ù­ˆìVDv+"»‘İŠÈnEd·"²[Ù­ˆìVDv+"»‘İŠÈnEd·"²[Ù­ˆìVDv+"»‘İŠÈnE´ïÒ¾¦œª¹ÕœT3V%KM9V¹Ö=yÔ¥õ?G};ºÔ3¹×5CûjI5æÜ~çºµ£Ó÷Ñã÷èo`Y7-¦uÃ–ãºqËaİÀôßËkÎG'}Sk¨Ì
 endstream
 endobj
-62 0 obj
-<<
-/Type /XObject
-/Subtype /Image
-/Width 696
-/Height 56
-/BitsPerComponent 8
-/ColorSpace /DeviceRGB
-/SMask 63 0 R
-/Filter /DCTDecode
-/Length 2627
->>
+65 0 obj
+<< /Filter /DCTDecode /ColorSpace /DeviceRGB /Length 2627 /SMask 81 0 R /BitsPerComponent
+8 /Type /XObject /Height 56 /Subtype /Image /Width 696 >> 
 stream
 ÿØÿà JFIF  d d  ÿÛ C 		
 
@@ -13718,33 +13309,16 @@ SŒ§Ê2~qE€FIQ”ù†GÌ?È¤	W“¼(¢€å˜Ê|½~aúzÒùG$e8ûâŠ(€FNŞSæéó×Ò“gËœ®3¼3E
 ( 9@¦¯Êp~aşM/–rFSŸ¾(¢€°É*2Ÿ7O˜‘I³åÎW“¼(¢€åÆFîSåëóÓÖ,çN™ûÂŠ(€FNŞSæéó×Ò“gËœ¯\}áE…1[”ùzüÃüš<³2œŒıñE„	§+ó˜‘ALr¼}áE(¦2	O”düâ$§Ì2>aEŠ^))oá-BI İÑs 1q×ŸQ\˜Ñµ-ÿÙ
 endstream
 endobj
-63 0 obj
-<<
-/Type /XObject
-/Subtype /Image
-/Width 696
-/Height 56
-/BitsPerComponent 8
-/ColorSpace /DeviceGray
-/Filter /FlateDecode
-/Length 173
->>
+81 0 obj
+<< /Filter /FlateDecode /ColorSpace /DeviceGray /Length 173 /BitsPerComponent
+8 /Type /XObject /Height 56 /Subtype /Image /Width 696 >> 
 stream
 xœíÒ±À  ±]zj–d…9N²gğ½PóÍ9Û[‚¼¥È[Š¼¥È[Š¼¥È[Š¼¥È[Š¼¥È[Š¼¥È[Š¼¥È[Š¼¥È[Š¼¥È[Š¼¥È[Š¼¥È[Š¼¥È[Š¼¥È[Š¼¥È[Š¼¥È[Š¼¥È[Š¼¥È[Š¼¥È[Š¼¥È[Š¼¥È[Š¼¥È[Š¼¥È[Š¼¥È[Š¼¥È[Š¼¥È[Š¼¥È[ŠöÈYó 8g“
 endstream
 endobj
 64 0 obj
-<<
-/Type /XObject
-/Subtype /Image
-/Width 696
-/Height 35
-/BitsPerComponent 8
-/ColorSpace /DeviceRGB
-/SMask 65 0 R
-/Filter /DCTDecode
-/Length 1894
->>
+<< /Filter /DCTDecode /ColorSpace /DeviceRGB /Length 1894 /SMask 82 0 R /BitsPerComponent
+8 /Type /XObject /Height 35 /Subtype /Image /Width 696 >> 
 stream
 ÿØÿà JFIF  d d  ÿÛ C 		
 
@@ -13759,52 +13333,22 @@ stream
 êK•L[HT„›*AëŒE7Äyÿ „cSÁ_øõ“9úv¢¸ñ;£¢–ÅÙÀ¸”8Ô}i´û‚w!‹‚Çæ?ÅïL®³ ¢Š( ¢Š( ¢Š( ¢Š( ¢Š( ¢Š( ¢Š( ¢Š( ¢Š( ¢Š( ¢Š( ¢Š( ¢Š( ¢Š( ¢Š( ¢Š( ¢Š( ¢Š( ¢Š( ¢Š( ¢Š( ¢Š( ¢Š( ¢Š( ¢Š( ¢Š( ¢Š( ¢Š( ¢Š( ¢Š( ¢Š( ¢Š( ¢Š( ¢Š( ¢Š( ¢Š( ¢Š( ¢Š( ¢Š( ¢Š( ¢Š( ¢Š(ŸˆÆ|3©ü¹Å¬œçîñ×üúÑGˆÆ|1©ıî-déÓ§oşµÉ‰İÒØĞ¸º{¹KÈC1 €3*<óÚŠ+¼À3Fh¢‹ géF~”QE€3ÅúsEX4géÅQ`ñF~”QE€3ô£?¥Q`ÑœúQE Î=(ÍQ`ş´¹ú~TQE€LÑ(¢‹ gõ£?J(¢Àı(ÏQE€3ô£4QE€3Fh¢‹ gÔgéEX4fŠ(°~”gô¢Š,(ÏëEX?J3úQE ÍúQE Ï=¨ÍQ`ÑŸ¥Q`ı(ÏQE€3úÑš(¢Àı(ÏQE€3š\ı?*(¢À&J3EX9ô£8ô¢Š,š3úÑE ÏÒŒâŠ(°x£?­Q`ÑŸ§QE€3ÅúQE ÏÒŒÑE ÍçµQ`ı(ÍQ`ş´géEX?¥âŠ(°Z3ô¢Š,š3EX?J3Ïj(¢À£4QE€«â+‡Oêh„’ÚMÀwÂ’(¢ŠàÅ|HŞ–ÇÿÙ
 endstream
 endobj
-65 0 obj
-<<
-/Type /XObject
-/Subtype /Image
-/Width 696
-/Height 35
-/BitsPerComponent 8
-/ColorSpace /DeviceGray
-/Filter /FlateDecode
-/Length 120
->>
+82 0 obj
+<< /Filter /FlateDecode /ColorSpace /DeviceGray /Length 120 /BitsPerComponent
+8 /Type /XObject /Height 35 /Subtype /Image /Width 696 >> 
 stream
 xœíÒA ! ±}‘ÜiÈÁû¡c’VCÏš5?älo	ò–"o)ò–"o)ò–"o)ò–"o)ò–"o)ò–"o)ò–"o)ò–"o)ò–"o)ò–"o)ò–"o)ò–"o)ò–"o)ò–"o)ò–"o)ò–¢=r¾yS{Xc
 endstream
 endobj
-66 0 obj
-<<
-/Type /Page
-/Contents 67 0 R
-/Resources <<
-/ExtGState <<
-/GSa 6 0 R
->>
-/Font <<
-/F1 7 0 R
-/F31 25 0 R
-/F57 48 0 R
-/F7 8 0 R
-/F8 14 0 R
->>
-/ColorSpace <<
-/PCSp 20 0 R
-/CSp /DeviceRGB
-/CSpg /DeviceGray
->>
-/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
->>
-/Annots [ ]
-/MediaBox [ 0 0 595 842 ]
-/Parent 2 0 R
->>
+8 0 obj
+<< /Parent 2 0 R /MediaBox [ 0 0 595 842 ] /Resources << /ProcSet [ /ImageB
+/ImageC /ImageI /PDF /Text ] /ColorSpace << /CSpg /DeviceGray /CSp /DeviceRGB
+/PCSp 26 0 R >> /Font << /F7 28 0 R /F8 27 0 R /F57 68 0 R /F31 48 0 R /F1
+29 0 R >> /ExtGState << /GSa 30 0 R >> >> /Contents 83 0 R /Annots [ ] /Type
+/Page >>
 endobj
-67 0 obj
-<<
-/Length 76682
->>
+83 0 obj
+<< /Length 76682 >> 
 stream
 q
 0.0 0.0 595.2756 841.8898 re
@@ -17316,43 +16860,15 @@ Q
 
 endstream
 endobj
-68 0 obj
-<<
-/Type /Page
-/Contents 69 0 R
-/Resources <<
-/ExtGState <<
-/GSa 6 0 R
->>
-/Font <<
-/F1 7 0 R
-/F31 25 0 R
-/F32 31 0 R
-/F57 48 0 R
-/F7 8 0 R
-/F77 70 0 R
-/F8 14 0 R
->>
-/XObject <<
-/Im71 76 0 R
-/Im75 78 0 R
->>
-/ColorSpace <<
-/PCSp 20 0 R
-/CSp /DeviceRGB
-/CSpg /DeviceGray
->>
-/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
->>
-/Annots [ ]
-/MediaBox [ 0 0 595 842 ]
-/Parent 2 0 R
->>
+9 0 obj
+<< /Parent 2 0 R /MediaBox [ 0 0 595 842 ] /Resources << /ProcSet [ /ImageB
+/ImageC /ImageI /PDF /Text ] /ColorSpace << /CSpg /DeviceGray /CSp /DeviceRGB
+/PCSp 26 0 R >> /XObject << /Im75 84 0 R /Im71 85 0 R >> /Font << /F77 86 0 R
+/F7 28 0 R /F32 47 0 R /F57 68 0 R /F8 27 0 R /F31 48 0 R /F1 29 0 R >> /ExtGState
+<< /GSa 30 0 R >> >> /Contents 87 0 R /Annots [ ] /Type /Page >>
 endobj
-69 0 obj
-<<
-/Length 87062
->>
+87 0 obj
+<< /Length 87062 >> 
 stream
 q
 0.0 0.0 595.2756 841.8898 re
@@ -21146,52 +20662,24 @@ Q
 
 endstream
 endobj
-70 0 obj
-<<
-/Type /Font
-/Subtype /Type0
-/BaseFont /DejaVuSerif-Bold
-/Encoding /Identity-H
-/DescendantFonts [ 71 0 R ]
-/ToUnicode 75 0 R
+86 0 obj
+<< /ToUnicode 88 0 R /Encoding /Identity-H /DescendantFonts [ 89 0 R ] /BaseFont
+/DejaVuSerif-Bold /Subtype /Type0 /Type /Font >>
+endobj
+89 0 obj
+<< /W [ 0 [ 600 845 648 462 609 727 722 667 563 380 ] ] /CIDToGIDMap /Identity
+/FontDescriptor 90 0 R /CIDSystemInfo << /Supplement 0 /Ordering (Identity)
+/Registry (Adobe) >> /BaseFont /DejaVuSerif-Bold /Subtype /CIDFontType2 /Type
+/Font >>
+endobj
+90 0 obj
+<< /CIDSet 91 0 R /CapHeight 938.9648 /StemV 43.94531 /Descent -235.8398 /Ascent
+938.9648 /Flags 4 /FontFile2 92 0 R /FontName /QKHAAA+DejaVuSerif-Bold /ItalicAngle
+0 /FontBBox [ -835.9375 -389.1602 1854.004 1145.02 ] /Type /FontDescriptor
 >>
 endobj
-71 0 obj
-<<
-/Type /Font
-/Subtype /CIDFontType2
-/BaseFont /DejaVuSerif-Bold
-/CIDSystemInfo <<
-/Registry (Adobe)
-/Ordering (Identity)
-/Supplement 0
->>
-/FontDescriptor 72 0 R
-/CIDToGIDMap /Identity
-/W [ 0 [ 600 845 648 462 609 727 722 667 563 380 ] ]
->>
-endobj
-72 0 obj
-<<
-/Type /FontDescriptor
-/FontName /QKHAAA+DejaVuSerif-Bold
-/Flags 4
-/FontBBox [ -835.9375 -389.160156 1854.0039 1145.01953 ]
-/ItalicAngle 0
-/Ascent 938.964843
-/Descent -235.839843
-/CapHeight 938.964843
-/StemV 43.9453125
-/FontFile2 73 0 R
-/CIDSet 74 0 R
->>
-endobj
-73 0 obj
-<<
-/Length1 10160
-/Filter /FlateDecode
-/Length 4532
->>
+92 0 obj
+<< /Length 4532 /Filter /FlateDecode /Length1 10160 >> 
 stream
 xœÅZyp×y‚ Ç’P‰d|$z-JŠ!Ğ"E‚¥*Q ’°@€Z€”dvA¬`¡İI8I]YÕÃ‰›X’ÅcÚÔ“´NšiS7“Æ=şèdÒ+xÜLÓ:­âét¦3mÓcêÚ‚ú½ï½Å%ŠÖ8í”w|çï;ŞÃRD"„l"?C:I¦‡JõoiXy~—
 ÕÜØ'nxaüCBÜ—òš¢jWb¿JHç¬æa¡k·×ó¯Àüá|Ñ^Û÷­c0ÿ.ÌwŒ¬âùLç˜¿ó¢²V&›IˆÏv˜Ó’RÔŞ~å…0ßOHßÇ‰ä¾èúéúáÎÏ"}”v¼Ir®Ÿ ÄåÙÔÑéét¹ÜoÏ-™¼ó®×M(H"ó¹¨
@@ -21213,18 +20701,14 @@ k±D$¾0KÌĞIàK$Ó4›‹¥Ah:‰¬BT,šbÂæ¢rd¦áÉX<–> Ó±t‚Éœ¡a:–Ó±ÈB<,Óùy>™Š‚Œ)›ˆ%¦eĞ
 —¯áò*OŞáÅÅä€h¿¬}@vÃiÄÛ¯º¢A´X+ú0X3YÕ-¬t8‹†8÷,¥ Ê€«NıR) ›U7³µ œ±lêÀ²jê64ªT`ÕÔŸG±)ªv˜–vûMÍ*ÃI¥¯h…jhMv¡%z)g˜Eá:Â—µÇjÓ%®‚ã†¹¤Şç¯¢ƒx^†ßA¼9ªø<.ˆÏFË°Öúœoã¿¡®êËú íp-XÎ—EOş æş4ÂÀ¿
 endstream
 endobj
-74 0 obj
-<<
-/Length 2
->>
+91 0 obj
+<< /Length 2 >> 
 stream
 ÿÀ
 endstream
 endobj
-75 0 obj
-<<
-/Length 427
->>
+88 0 obj
+<< /Length 427 >> 
 stream
 /CIDInit /ProcSet findresource begin
 12 dict begin
@@ -21246,18 +20730,9 @@ end
 
 endstream
 endobj
-76 0 obj
-<<
-/Type /XObject
-/Subtype /Image
-/Width 344
-/Height 87
-/BitsPerComponent 8
-/ColorSpace /DeviceRGB
-/SMask 77 0 R
-/Filter /DCTDecode
-/Length 2577
->>
+85 0 obj
+<< /Filter /DCTDecode /ColorSpace /DeviceRGB /Length 2577 /SMask 93 0 R /BitsPerComponent
+8 /Type /XObject /Height 87 /Subtype /Image /Width 344 >> 
 stream
 ÿØÿà JFIF  d d  ÿÛ C 		
 
@@ -21296,33 +20771,16 @@ stream
 ©şĞ@Xàƒ¿/¹ù•Qõ™vd¾ hXÿ h!*p“/Íî>_çJŞ?Ñ0şÒŒ…C.Ø|ŸÎŠ(úÌ»²@<¢Aı¥Ü2I†_—ëò,Òˆ:!P´q&\»ÒŠ(úÌ»²@ß4@ş&(vôL¿7Óåşx¥ÿ „ÿ DÜGö”xœù2àŸO¹×ô¢Š>³.Áìè„§üLcºşæ_“ëòÿ ,ÒÂÁÑ6çûA3»òeÎ=~ïOÖŠ(úÌ»²@~ hƒüLc;z~æ_Ÿéòÿ <Rÿ Â¢nûJ<mÎ|™qŸO¹×ô¢Š>³.Áì‹ñD!?âbƒw\Ã/Éõù–h?t@¤ÿ h!!±&\‘ë÷z~´QGÖeØ=’+ëŞ;ÑgĞ5#¾ig– ‘8W$¹QíEVu*¹î\b£±ÿÙ
 endstream
 endobj
-77 0 obj
-<<
-/Type /XObject
-/Subtype /Image
-/Width 344
-/Height 87
-/BitsPerComponent 8
-/ColorSpace /DeviceGray
-/Filter /FlateDecode
-/Length 293
->>
+93 0 obj
+<< /Filter /FlateDecode /ColorSpace /DeviceGray /Length 293 /BitsPerComponent
+8 /Type /XObject /Height 87 /Subtype /Image /Width 344 >> 
 stream
 xœíĞ±jAFQ‹Tñ!}ÿrfu¶L”1BnwNù³óÁŞÓ‰ÿ÷vø pÔ5¡kC×†®]º6tmèÚĞµ¡kC×†®]º6tmèÚĞµ¡kC×†®]º6tmèÚĞµ¡kC×†®]º6tmèÚĞµ¡kC×†®]º6tmèÚĞµ¡kC×†®]º6tmèÚĞµ¡kC×†®]º6tmèÚĞµ¡kC×†®]º6tmèÚĞµ¡kC×†®]º6tmèÚĞµ¡kC×†®]º6tmèÚĞµ¡kC×Æñ0çØö5ÆeÇ\kóºŒ±Ö6¶u;ëy»Ÿçõ|ûh~}ôÃÛ—“—‡É×o¿ŸçÃäúËäx6ùä1¹ïclãı@ã8–V
 endstream
 endobj
-78 0 obj
-<<
-/Type /XObject
-/Subtype /Image
-/Width 343
-/Height 87
-/BitsPerComponent 8
-/ColorSpace /DeviceRGB
-/SMask 79 0 R
-/Filter /DCTDecode
-/Length 2678
->>
+84 0 obj
+<< /Filter /DCTDecode /ColorSpace /DeviceRGB /Length 2678 /SMask 94 0 R /BitsPerComponent
+8 /Type /XObject /Height 87 /Subtype /Image /Width 343 >> 
 stream
 ÿØÿà JFIF  d d  ÿÛ C 		
 
@@ -21354,53 +20812,23 @@ stream
 (¢€2¼w»şmWo—.=ÛºãÎîûç†h¤ñêîğ>¨|¯3lqÙÇ—ûèşoOøÇ‰ø—¡½-‡ß|DĞ%i!Ôfì¨–)¼…ÅF|¢#ûJ2ç>L¸'Óîuı(¢¬Ë°{$ñD%?âcİ×0Ëò}~_åšOøX:&À´;±&\ã×îôıh¢¬Ë°{$âˆ7ÿ ÄÆ3·§îeùşŸ/óÅ/ü'ú&ìiG¹Ï“.3é÷:ş”QGÖeØ=’~ h‡güLPnë˜eù>¿/òÍğ°tM¤ÿ h&CcL¹#×îôıh¢¬Ë°{$+xÿ Dÿ âcÛÓËó}>OçŠôBÀiFÏ“.·ÜëE}f]ƒÙ!âˆUöŠÇeù}ÏËü¨?t@¬´•8É—-î>_çE}f]ƒÙ![Çú fÚQ£ ù2üŞÃäşt/ôBÊ?´£†I0Ëòû“ùQEY—`öHAñD*§ûAc‚<™~_sòÿ *âˆÏöŠ§ eù½ÇËüè¢¬Ë°{$)ñşˆ‡ö”d|™p}¾çZôBSş&1İI†_—ëòÿ ,ÑEY—dÉ> è›AşĞL–Æ<™r¯İéúĞ~ h€?üLPíéû™~§ËüñE}f]ƒÙ!á?Ñ7cûJ<mÎ|™qŸO¹×ô¤4C³ş&1İs¿'×åşY¢Š>³.ÁìÂÁÑ6ı ™İŒy2ç¿w§ëJ|¢ÿ ñ1Œíéû™~§ËüñE}f]ƒÙ ÿ „ÿ DÜö”x+œù2àO¹×ô¤_ˆ!	ÿ  Ã/Ëõù–h¢¬Ë°{$âˆŸí$äË“ï÷zRŸè˜iFvŒƒäËó{“ùÑEY—`öHôBÊ?´£†Iòeù}Éü©ÄªŸí0ËòûŸ—ùQEY—`öHâˆöŠ§ y2üŞãåşt§Çú fÚQAòeÃ{’Š(úÌ»²@¾?Ñ	Aı£Ü2I†_—ëò*AñD*ö‚dœcÉ—#ßîô¢Š>³.Áìˆ ÿ ;z~æ_Ÿéòÿ <RŸè›ˆşÒsŸ&\é÷:ş”QGÖeØ=’ñD;?âcİ×÷2üŸ_—ùf“ş‰·?Ú	ØÇ“.që÷z~´QGÖeØ=’¾ hƒüLc;z~æ_Ÿéòÿ <Qÿ 	ş‰¼í(ñ·9òeÀ>Ÿs¯éE}f]ƒÙ!Ä„ÿ ‰Šİs/Éõù–h?4@¤ÿ h!!±&\‘ë÷z~´QGÖeØ=’3ügã=Pğ¥ı­½ëÏs/–"	ª0¬ÙÜ£ QYT¨æîËŒTU‘ÿÙ
 endstream
 endobj
-79 0 obj
-<<
-/Type /XObject
-/Subtype /Image
-/Width 343
-/Height 87
-/BitsPerComponent 8
-/ColorSpace /DeviceGray
-/Filter /FlateDecode
-/Length 526
->>
+94 0 obj
+<< /Filter /FlateDecode /ColorSpace /DeviceGray /Length 526 /BitsPerComponent
+8 /Type /XObject /Height 87 /Subtype /Image /Width 343 >> 
 stream
 xœíÜÛNaàõT<€/Ây¡£&FQâ)ÜÒŠh@Sğ„§À~ÚŞIDbĞ4áBVv²²¾«æÏÌŸÕ^¬İNÛ™›·swK?íÜq­:‚¢.UGP¸[AÑ6FÕ%^TGPôÍİÊ~YÂ%Àğ¯«#(JÜ¯ è»•!p£:‚¢uw+CúeeH,VGP4ôÈb¬TGP´çneH<­ è£»•!p¹:‚¢p·2øã EâVuE›YåêŠ^¹[Õ¸[ü…6E`­:‚¢},†ÄÃêŠFîV†ÀõêŠ¹[|‹"qµ:‚¢5,†À£êŠFîV†Ä°:‚¢OîV_Á¢lUGPtà‘Å¸SAÑ–»•!p»:‚¢w+Cú Cº[üq€"0¨ èƒGCâquEoİ­+ÕÜ­şB›"ı«†u,†ÀƒêŠvÜ­‰çÕ}q·2ø
 EøY_=²Ò7qfØq·2nVGPôÒİÊà+X‰…êŠV=²ÂwmcxçneH<© è½»•ÁÿĞ¦XÅnuE‡¾WÃ6.vmü£omÚOZëû®Múé¯ãÖõÇËÓßËãşä ãå?^îf,Ÿœ{zËÉ¬-g{æ–Ó¶<ûÜnÖ3œüç·üŞÚøŒâ—½bÊ
 endstream
 endobj
-80 0 obj
-<<
-/Type /Page
-/Contents 81 0 R
-/Resources <<
-/ExtGState <<
-/GSa 6 0 R
->>
-/Font <<
-/F1 7 0 R
-/F57 48 0 R
-/F58 54 0 R
-/F7 8 0 R
-/F8 14 0 R
->>
-/ColorSpace <<
-/PCSp 20 0 R
-/CSp /DeviceRGB
-/CSpg /DeviceGray
->>
-/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
->>
-/Annots [ ]
-/MediaBox [ 0 0 595 842 ]
-/Parent 2 0 R
->>
+10 0 obj
+<< /Parent 2 0 R /MediaBox [ 0 0 595 842 ] /Resources << /ProcSet [ /ImageB
+/ImageC /ImageI /PDF /Text ] /ColorSpace << /CSpg /DeviceGray /CSp /DeviceRGB
+/PCSp 26 0 R >> /Font << /F7 28 0 R /F58 67 0 R /F8 27 0 R /F57 68 0 R /F1
+29 0 R >> /ExtGState << /GSa 30 0 R >> >> /Contents 95 0 R /Annots [ ] /Type
+/Page >>
 endobj
-81 0 obj
-<<
-/Length 127179
->>
+95 0 obj
+<< /Length 127179 >> 
 stream
 q
 0.0 0.0 595.2756 841.8898 re
@@ -27107,40 +26535,15 @@ Q
 
 endstream
 endobj
-82 0 obj
-<<
-/Type /Page
-/Contents 83 0 R
-/Resources <<
-/ExtGState <<
-/GSa 6 0 R
->>
-/Font <<
-/F1 7 0 R
-/F31 25 0 R
-/F7 8 0 R
-/F8 14 0 R
->>
-/XObject <<
-/Im88 84 0 R
-/Im90 85 0 R
->>
-/ColorSpace <<
-/PCSp 20 0 R
-/CSp /DeviceRGB
-/CSpg /DeviceGray
->>
-/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
->>
-/Annots [ ]
-/MediaBox [ 0 0 595 842 ]
-/Parent 2 0 R
->>
+11 0 obj
+<< /Parent 2 0 R /MediaBox [ 0 0 595 842 ] /Resources << /ProcSet [ /ImageB
+/ImageC /ImageI /PDF /Text ] /ColorSpace << /CSpg /DeviceGray /CSp /DeviceRGB
+/PCSp 26 0 R >> /XObject << /Im90 96 0 R /Im88 97 0 R >> /Font << /F7 28 0 R
+/F8 27 0 R /F31 48 0 R /F1 29 0 R >> /ExtGState << /GSa 30 0 R >> >> /Contents
+98 0 R /Annots [ ] /Type /Page >>
 endobj
-83 0 obj
-<<
-/Length 43334
->>
+98 0 obj
+<< /Length 43334 >> 
 stream
 q
 0.0 0.0 595.2756 841.8898 re
@@ -28928,17 +28331,9 @@ Q
 
 endstream
 endobj
-84 0 obj
-<<
-/Type /XObject
-/Subtype /Image
-/Width 1890
-/Height 645
-/BitsPerComponent 8
-/ColorSpace /DeviceRGB
-/Filter /DCTDecode
-/Length 266633
->>
+97 0 obj
+<< /Filter /DCTDecode /ColorSpace /DeviceRGB /Length 266633 /BitsPerComponent
+8 /Type /XObject /Height 645 /Subtype /Image /Width 1890 >> 
 stream
 ÿØÿà JFIF  d d  ÿÛ C 		
 
@@ -29817,17 +29212,9 @@ jUÆ‡%Ü„¼­×*&‰Ë1]Œv |MEŸ£¿ğCÏ‰ğïí¿ñïÅğ¿Ø<1¥ü&ñ¥¦h:µÙ¿ıÄRYºÁ<¸S `¸b Î
 IóîÎã–;‰:YşÒ>4Óÿ g[Ï„ğë;>ßë«âYô¯²@|ÍAa,ŞqO8b0`pöçšáè°î}™ğŸöÃøñKöğGÁšWÅ‹&øe¬j:†¬xû>v×ËÄWl€&H*O tç?kĞj÷_ÙæäØyÏöcpLbÜvoÆí¸Î8ÎqU¨§a¼/áË¿ø›NÒ,#ó¯µ[¨¬íÓûòHá~$ŠıUÿ ‚¶üJıõOÚ­¼ñAøáˆşéVŠóÁ·:i°Ö­-í£‘Eº; hŞY#Ìjr'<ü²ğ5?†^9Ñ|I¢\-¦³áëø5;	ÚæXn!‘dÊH¬ª®¥N0AU¿‹5ÿ ?5ïø«Pm[Ä&¾—QÔ¯$ˆÜÏ+wÙª($ğª¡@à )4Ó?ÿ ‚é¿?n¯Ş/ÃiàÏ…õÏÃŞŠf»m?K±¼wi$ g“k3¶2~QÎ7Z_Ùÿ _ı‘¾(~Ô_|\-`ø{â	ø›Fğº·qKkã)µ–0Ù}…•Ÿû¹ŒîS>ZÄÛö‘Šüì¢‹ÂŠ(¦EPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPÿÙ
 endstream
 endobj
-85 0 obj
-<<
-/Type /XObject
-/Subtype /Image
-/Width 1725
-/Height 630
-/BitsPerComponent 8
-/ColorSpace /DeviceRGB
-/Filter /DCTDecode
-/Length 139643
->>
+96 0 obj
+<< /Filter /DCTDecode /ColorSpace /DeviceRGB /Length 139643 /BitsPerComponent
+8 /Type /XObject /Height 630 /Subtype /Image /Width 1725 >> 
 stream
 ÿØÿà JFIF  d d  ÿÛ C 		
 
@@ -30510,35 +29897,14 @@ h×‰µÛÀæßNÒle½»œ"—r‘F¬íµU˜àp“À¯Ğïø)Wì•ñW[ÿ ‚~~È6–_¾ Ş]xGÂºë°ÁáÛÉ$ÑIº‰À¹Qa%U›
 ¦5¯ˆ(¢„EPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPÿÙ
 endstream
 endobj
-86 0 obj
-<<
-/Type /Page
-/Contents 87 0 R
-/Resources <<
-/ExtGState <<
-/GSa 6 0 R
->>
-/Font <<
-/F1 7 0 R
-/F7 8 0 R
-/F8 14 0 R
->>
-/ColorSpace <<
-/PCSp 20 0 R
-/CSp /DeviceRGB
-/CSpg /DeviceGray
->>
-/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
->>
-/Annots [ ]
-/MediaBox [ 0 0 595 842 ]
-/Parent 2 0 R
->>
+12 0 obj
+<< /Parent 2 0 R /MediaBox [ 0 0 595 842 ] /Resources << /ProcSet [ /ImageB
+/ImageC /ImageI /PDF /Text ] /ColorSpace << /CSpg /DeviceGray /CSp /DeviceRGB
+/PCSp 26 0 R >> /Font << /F8 27 0 R /F7 28 0 R /F1 29 0 R >> /ExtGState <<
+/GSa 30 0 R >> >> /Contents 99 0 R /Annots [ ] /Type /Page >>
 endobj
-87 0 obj
-<<
-/Length 22503
->>
+99 0 obj
+<< /Length 22503 >> 
 stream
 q
 0.0 0.0 595.2756 841.8898 re
@@ -31758,39 +31124,15 @@ Q
 
 endstream
 endobj
-88 0 obj
-<<
-/Type /Page
-/Contents 89 0 R
-/Resources <<
-/ExtGState <<
-/GSa 6 0 R
->>
-/Font <<
-/F1 7 0 R
-/F31 25 0 R
-/F7 8 0 R
-/F8 14 0 R
->>
-/XObject <<
-/Im102 90 0 R
->>
-/ColorSpace <<
-/PCSp 20 0 R
-/CSp /DeviceRGB
-/CSpg /DeviceGray
->>
-/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
->>
-/Annots [ ]
-/MediaBox [ 0 0 595 842 ]
-/Parent 2 0 R
->>
+13 0 obj
+<< /Parent 2 0 R /MediaBox [ 0 0 595 842 ] /Resources << /ProcSet [ /ImageB
+/ImageC /ImageI /PDF /Text ] /ColorSpace << /CSpg /DeviceGray /CSp /DeviceRGB
+/PCSp 26 0 R >> /XObject << /Im102 100 0 R >> /Font << /F7 28 0 R /F8 27 0 R
+/F31 48 0 R /F1 29 0 R >> /ExtGState << /GSa 30 0 R >> >> /Contents 101 0 R
+/Annots [ ] /Type /Page >>
 endobj
-89 0 obj
-<<
-/Length 33744
->>
+101 0 obj
+<< /Length 33744 >> 
 stream
 q
 0.0 0.0 595.2756 841.8898 re
@@ -33249,17 +32591,9 @@ Q
 
 endstream
 endobj
-90 0 obj
-<<
-/Type /XObject
-/Subtype /Image
-/Width 1140
-/Height 585
-/BitsPerComponent 8
-/ColorSpace /DeviceRGB
-/Filter /DCTDecode
-/Length 70586
->>
+100 0 obj
+<< /Filter /DCTDecode /ColorSpace /DeviceRGB /Length 70586 /BitsPerComponent
+8 /Type /XObject /Height 585 /Subtype /Image /Width 1140 >> 
 stream
 ÿØÿà JFIF  d d  ÿÛ C 		
 
@@ -33781,40 +33115,15 @@ Fï%ÈŸ~3~ÙŸ¼sàEáOÙWÃŞñwˆ-íøLõB×Ky>ü¶¶,«m×h%‚v®3âÿ í›ÿ [öø?ğgş¿°
 (¢€?ÿÙ
 endstream
 endobj
-91 0 obj
-<<
-/Type /Page
-/Contents 92 0 R
-/Resources <<
-/ExtGState <<
-/GSa 6 0 R
->>
-/Font <<
-/F1 7 0 R
-/F31 25 0 R
-/F57 48 0 R
-/F7 8 0 R
-/F8 14 0 R
->>
-/XObject <<
-/Im109 93 0 R
->>
-/ColorSpace <<
-/PCSp 20 0 R
-/CSp /DeviceRGB
-/CSpg /DeviceGray
->>
-/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
->>
-/Annots [ ]
-/MediaBox [ 0 0 595 842 ]
-/Parent 2 0 R
->>
+14 0 obj
+<< /Parent 2 0 R /MediaBox [ 0 0 595 842 ] /Resources << /ProcSet [ /ImageB
+/ImageC /ImageI /PDF /Text ] /ColorSpace << /CSpg /DeviceGray /CSp /DeviceRGB
+/PCSp 26 0 R >> /XObject << /Im109 102 0 R >> /Font << /F7 28 0 R /F8 27 0 R
+/F57 68 0 R /F31 48 0 R /F1 29 0 R >> /ExtGState << /GSa 30 0 R >> >> /Contents
+103 0 R /Annots [ ] /Type /Page >>
 endobj
-92 0 obj
-<<
-/Length 69108
->>
+103 0 obj
+<< /Length 69108 >> 
 stream
 q
 0.0 0.0 595.2756 841.8898 re
@@ -36896,17 +36205,9 @@ Q
 
 endstream
 endobj
-93 0 obj
-<<
-/Type /XObject
-/Subtype /Image
-/Width 1170
-/Height 630
-/BitsPerComponent 8
-/ColorSpace /DeviceRGB
-/Filter /DCTDecode
-/Length 85616
->>
+102 0 obj
+<< /Filter /DCTDecode /ColorSpace /DeviceRGB /Length 85616 /BitsPerComponent
+8 /Type /XObject /Height 630 /Subtype /Image /Width 1170 >> 
 stream
 ÿØÿà JFIF  d d  ÿÛ C 		
 
@@ -37333,38 +36634,15 @@ k†5¾Ñõ¬nUN2¢H™[Œö©°î}Åñ»Áz¯ìIÿ ;Ñ¾xâÆç@ø…ñ“â!ñ\Zêoìt{[Tfùâ/:.Ğà®{©¯Ï
 z8¨?nÏø%wÄÛ#ö¦ñwÆŸğüNøcñ+PZëV!°µ[\~ò[{Ä¸š7ârà† 3†ÊÎ:(°\ûãş	ãáŸ‡²‡íá ]\Y\İè~ƒOšk+…¸¶™â¿’6h¤^2T•aÃzç?àßò'~×ö@üEÿ £-kâª(°‚Š(¦EPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEPÿÙ
 endstream
 endobj
-94 0 obj
-<<
-/Type /Page
-/Contents 95 0 R
-/Resources <<
-/ExtGState <<
-/GSa 6 0 R
->>
-/Font <<
-/F1 7 0 R
-/F31 25 0 R
-/F57 48 0 R
-/F58 54 0 R
-/F7 8 0 R
-/F8 14 0 R
->>
-/ColorSpace <<
-/PCSp 20 0 R
-/CSp /DeviceRGB
-/CSpg /DeviceGray
->>
-/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
->>
-/Annots [ ]
-/MediaBox [ 0 0 595 842 ]
-/Parent 2 0 R
->>
+15 0 obj
+<< /Parent 2 0 R /MediaBox [ 0 0 595 842 ] /Resources << /ProcSet [ /ImageB
+/ImageC /ImageI /PDF /Text ] /ColorSpace << /CSpg /DeviceGray /CSp /DeviceRGB
+/PCSp 26 0 R >> /Font << /F7 28 0 R /F58 67 0 R /F57 68 0 R /F8 27 0 R /F31
+48 0 R /F1 29 0 R >> /ExtGState << /GSa 30 0 R >> >> /Contents 104 0 R /Annots
+[ ] /Type /Page >>
 endobj
-95 0 obj
-<<
-/Length 108220
->>
+104 0 obj
+<< /Length 108220 >> 
 stream
 q
 0.0 0.0 595.2756 841.8898 re
@@ -42204,39 +41482,15 @@ Q
 
 endstream
 endobj
-96 0 obj
-<<
-/Type /Page
-/Contents 97 0 R
-/Resources <<
-/ExtGState <<
-/GSa 6 0 R
->>
-/Font <<
-/F1 7 0 R
-/F31 25 0 R
-/F7 8 0 R
-/F8 14 0 R
->>
-/XObject <<
-/Im121 98 0 R
->>
-/ColorSpace <<
-/PCSp 20 0 R
-/CSp /DeviceRGB
-/CSpg /DeviceGray
->>
-/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
->>
-/Annots [ ]
-/MediaBox [ 0 0 595 842 ]
-/Parent 2 0 R
->>
+16 0 obj
+<< /Parent 2 0 R /MediaBox [ 0 0 595 842 ] /Resources << /ProcSet [ /ImageB
+/ImageC /ImageI /PDF /Text ] /ColorSpace << /CSpg /DeviceGray /CSp /DeviceRGB
+/PCSp 26 0 R >> /XObject << /Im121 105 0 R >> /Font << /F7 28 0 R /F8 27 0 R
+/F31 48 0 R /F1 29 0 R >> /ExtGState << /GSa 30 0 R >> >> /Contents 106 0 R
+/Annots [ ] /Type /Page >>
 endobj
-97 0 obj
-<<
-/Length 76858
->>
+106 0 obj
+<< /Length 76858 >> 
 stream
 q
 0.0 0.0 595.2756 841.8898 re
@@ -45454,17 +44708,9 @@ Q
 
 endstream
 endobj
-98 0 obj
-<<
-/Type /XObject
-/Subtype /Image
-/Width 1830
-/Height 660
-/BitsPerComponent 8
-/ColorSpace /DeviceRGB
-/Filter /DCTDecode
-/Length 203388
->>
+105 0 obj
+<< /Filter /DCTDecode /ColorSpace /DeviceRGB /Length 203388 /BitsPerComponent
+8 /Type /XObject /Height 660 /Subtype /Image /Width 1830 >> 
 stream
 ÿØÿà JFIF  d d  ÿÛ C 		
 
@@ -46302,43 +45548,16 @@ Jƒ“Ÿ1¢€=;Iı²¾%è²Î©ğR×ÅÅğÇYÔ×X¼Ñ>ÉnË5È108ÆfºÛb¸L®vä’Wöcı³ş(şÆ¾!¼ÔşøÓWğ¥Æ¥
 k~"Ö5:Ym-î¤µ³¹Òd’2ŞC'iÁÉpkçj)$:ï€ßüWû2|[Ñ|uà}WûÅ^•æÓï¾ÍÏÙİ£hØùs#ÆÙGaó)ë¸­¯Ù÷ö¼ø‘û+|Tºñ¯Ãÿ ßxgÄ—ÑKÕÕ¼qH—qÈÁŞ9b‘Z)°VÚÈFT8æôS½ı£ÿ i¿şÖ¿Ï‹|}ªÛë:ùµÌÜA¦ÚéëåG»jùvÑÇFãÎÜœòMpTQ@Q@Q@Q@Q@Q@Q@Q@Q@Q@Q@Q@Q@Q@Q@Q@Q@Q@Q@Q@Q@Q@Q@Q@Q@Q@Q@Q@Q@Q@Q@Q@Q@Q@Q@Q@Q@Q@Q@Q@Q@Q@Q@Q@Q@Q@Q@Q@Q@Q@Q@Q@Q@Q@¨>0ı¢¾~Æ¿ğJoÙÃáÄƒÚ_Å7â%©ã½BÖmn}óOšKÖK‹{˜QÙ7[—Vù€8È?$şÕÿ ·ô~èŸ|àáÂmQ}e<=§^Ï¨O¨ê_Ú¯/&ıäò*eW!BƒŒ.ßñŸÄÏ|F‡HÄ> Öõèü?§Ç¤ék¨ßKtºmœyòí ÇÊ…2vÆ˜Q“€3X”’ÏÒïøY>?ğQQûbÂÅğ'ü"Ğx°øû^?øI¶³|¯ì¯ìÿ õÙûovß#ÊùüÎÕù£E$ ¢Š)€QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QEÿÙ
 endstream
 endobj
-99 0 obj
-<<
-/Type /Page
-/Contents 100 0 R
-/Resources <<
-/ExtGState <<
-/GSa 6 0 R
->>
-/Font <<
-/F1 7 0 R
-/F31 25 0 R
-/F32 31 0 R
-/F57 48 0 R
-/F58 54 0 R
-/F7 8 0 R
-/F8 14 0 R
->>
-/XObject <<
-/Im130 101 0 R
-/Im132 103 0 R
->>
-/ColorSpace <<
-/PCSp 20 0 R
-/CSp /DeviceRGB
-/CSpg /DeviceGray
->>
-/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
->>
-/Annots [ ]
-/MediaBox [ 0 0 595 842 ]
-/Parent 2 0 R
+17 0 obj
+<< /Parent 2 0 R /MediaBox [ 0 0 595 842 ] /Resources << /ProcSet [ /ImageB
+/ImageC /ImageI /PDF /Text ] /ColorSpace << /CSpg /DeviceGray /CSp /DeviceRGB
+/PCSp 26 0 R >> /XObject << /Im132 107 0 R /Im130 108 0 R >> /Font << /F7
+28 0 R /F58 67 0 R /F32 47 0 R /F57 68 0 R /F8 27 0 R /F31 48 0 R /F1 29 0 R
+>> /ExtGState << /GSa 30 0 R >> >> /Contents 109 0 R /Annots [ ] /Type /Page
 >>
 endobj
-100 0 obj
-<<
-/Length 89678
->>
+109 0 obj
+<< /Length 89678 >> 
 stream
 q
 0.0 0.0 595.2756 841.8898 re
@@ -50448,18 +49667,9 @@ Q
 
 endstream
 endobj
-101 0 obj
-<<
-/Type /XObject
-/Subtype /Image
-/Width 696
-/Height 56
-/BitsPerComponent 8
-/ColorSpace /DeviceRGB
-/SMask 102 0 R
-/Filter /DCTDecode
-/Length 4647
->>
+108 0 obj
+<< /Filter /DCTDecode /ColorSpace /DeviceRGB /Length 4647 /SMask 110 0 R /BitsPerComponent
+8 /Type /XObject /Height 56 /Subtype /Image /Width 696 >> 
 stream
 ÿØÿà JFIF  d d  ÿÛ C 		
 
@@ -50479,32 +49689,16 @@ dÎ£¦şïÅäG?O›ŸÂŠ(çcåBfÀ¸_í3%wÿ ÇäXÇ×w_n´‹­Ø:ÆF£¦şğàfî1¯ÍÇãEù˜r¡¹§„fşÑÓ°­´ÿ 
 (¥ÎÇÊ€k6ê¿Ú:fYwôÈ±s»ƒìy¤]rÁÕÔtÜHp3w#ëóqøÑE>f.Q\ÓÕ£§aiÅÜd“ì7r=ÇæÖlİN£¦eã‹Èˆ?C»“ì(¢f>T¬Ø3 ™™Fo" }~n?h×4öEoí7ÛGú\yÏ¸İÀ÷<QEÌ\¢¶·`‹!:›û³ƒ‹¸Î~Ÿ7?…)Öl•şÑÓ2ü~EŒ}wc>İh¢f>T"ëVcÆ£¦şó¦o"úüÜ~4ŸÛš~ÍßÚ:v7lÿ ¸óŸ¦îı(¢—;(­­X/™GMıŞ3‹¸~Ÿ7?†iF³`\/ö™’»ÿ ãò,cë»¯·Z(§ÌÇÊ„]nÁ„dj:oï	7qŒ}~n?C®iá¿´tì+m?éqç?MÜ~”QG3T9µ›iÔtÌÆ2qyéósøPºÍƒ:/ö™—]Ã7‘s»ƒìy¢Š9ÅÊ"ë–¨F£¦âC›¸Á_›©¡µËW'QÓqÁÅÜdŸ§ÍÏÔQE.waò¡[Y°WuşÑÓ2‹¸âò"1ìwr}‡4‹­X3F£¦fA‘›È€_›ÆŠ)ó0åBsO(­ı£§a›hÿ K9únà{ô¥mnÁD„ê:oîø8»ŒçéósøQE.v¨S¬Ø+ı£¦d.ÿ øü‹úîëíÖ‘u«òñ¨é¿¼Î3wÇ×æãñÅQÎÅÊ'öæŸ³wöÛ?ãî<çé»§¿JVÖ¬ÉGMıß\^Dsôù¹ü(¢v>T(Öl…şÑÓ2Wü~EŒ}wuöëHºİƒ¬dj:oïnãúüÜ~4QO™‹”C®iêŒßÚ:n¶Ÿô¸óŸa»‘î8§6³`¬àê:fc8¼ˆƒôù¹ü(¢—;*ÖlÑF£¦eÆá›È€S»ƒìi«®iìˆÃQÓ°í´fî0A÷¸çŠ(£‹”V×,\GMÄgq’~Ÿ7?…)Öl²ÿ hé™UÜÓ"Æ=îO°æŠ)ó1ò ]jÁš053÷ƒ#7‘}~n?h×4ò¿´tìÙÿ qç?Mİ=úQE.v.Q[[°Q&u7÷xÎ.ã9ú|Üş¿Û6öÿ hé™Û¿ş?"Æ>»ºûu¢Š9ØùP‹­Ø7—GMıîq›¸Æ>¿7)?·4ı…¿´tÜÙÿ qç?Mİ=úQE>f.Q[Z°S :™û±“‹È~Ÿ7?…(Ölªÿ hé™eÜ?Ó"Æ=Îî·Z(£™•ºİƒª¨é¸àfî0G×æãñ¤msOTv:„m§q’O°İÈ÷QE.v.QÍ¬Ø#ºGLÌcqÅäD¡İÉö.³`Î€j:fd¼ˆõù¸üh¢Ÿ3*)ø‡[ÓßÂ×ûo´ù^h$nP¾qıĞsÏOÆŠ(®Zò»F´ûÿÙ
 endstream
 endobj
-102 0 obj
-<<
-/Type /XObject
-/Subtype /Image
-/Width 696
-/Height 56
-/BitsPerComponent 8
-/ColorSpace /DeviceGray
-/Filter /FlateDecode
-/Length 397
->>
+110 0 obj
+<< /Filter /FlateDecode /ColorSpace /DeviceGray /Length 397 /BitsPerComponent
+8 /Type /XObject /Height 56 /Subtype /Image /Width 696 >> 
 stream
 xœíÒ9NCEÑì Šì'Î<‡œy$gL5Ê‡âI÷Ô–‹[MÌ¬Ñ¶AÌÌf1´VDİâÑ,¢k½(Ìblˆ–cjæ1°NDÍ&1±ZDÇúáfÓY3¢iãx2+¢gİ³ÇxøÛF‰f‰¯ç~10úy`ğ×ıkß<ğıÜÍÍòc»«¼rªtAtEtEtEtEtEtEtEtEtEtEtEtEtEtEtEtEtEtEtEtEtEtEtEtEtEtEtEtEtEtEtEtEtEtEtEtEtEtEtEtEtEtEtEtEtEtEtEtEtEtEtEÕŠ—ëŞç™Ï¾Ï“û%W¾Ê‹û)÷şœ9÷mİ_sã‹ÌÂytÏÏ£u¾¹¿äÎ#3|—/îo¹öe¦û1^d.}“¯îçÜşÓÀ¢ÄÀ’Íãõà÷@Ñ§ú¥`
 endstream
 endobj
-103 0 obj
-<<
-/Type /XObject
-/Subtype /Image
-/Width 1140
-/Height 585
-/BitsPerComponent 8
-/ColorSpace /DeviceRGB
-/Filter /DCTDecode
-/Length 89948
->>
+107 0 obj
+<< /Filter /DCTDecode /ColorSpace /DeviceRGB /Length 89948 /BitsPerComponent
+8 /Type /XObject /Height 585 /Subtype /Image /Width 1140 >> 
 stream
 ÿØÿà JFIF  d d  ÿÛ C 		
 
@@ -51086,35 +50280,14 @@ T¤ÊªÊÍ‘³£ ÊJ¹Án~ÛŸ¶G‰ÿ o_Ú#Vø™ãM×µˆ-­æ·Ñ –4X!XSjË$	TåÏ9Æ:QmGs‘øşâ¦’
 (¢€?ÿÙ
 endstream
 endobj
-104 0 obj
-<<
-/Type /Page
-/Contents 105 0 R
-/Resources <<
-/ExtGState <<
-/GSa 6 0 R
->>
-/Font <<
-/F1 7 0 R
-/F7 8 0 R
-/F8 14 0 R
->>
-/ColorSpace <<
-/PCSp 20 0 R
-/CSp /DeviceRGB
-/CSpg /DeviceGray
->>
-/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
->>
-/Annots [ ]
-/MediaBox [ 0 0 595 842 ]
-/Parent 2 0 R
->>
+18 0 obj
+<< /Parent 2 0 R /MediaBox [ 0 0 595 842 ] /Resources << /ProcSet [ /ImageB
+/ImageC /ImageI /PDF /Text ] /ColorSpace << /CSpg /DeviceGray /CSp /DeviceRGB
+/PCSp 26 0 R >> /Font << /F8 27 0 R /F7 28 0 R /F1 29 0 R >> /ExtGState <<
+/GSa 30 0 R >> >> /Contents 111 0 R /Annots [ ] /Type /Page >>
 endobj
-105 0 obj
-<<
-/Length 19621
->>
+111 0 obj
+<< /Length 19621 >> 
 stream
 q
 0.0 0.0 595.2756 841.8898 re
@@ -52001,37 +51174,15 @@ Q
 
 endstream
 endobj
-106 0 obj
-<<
-/Type /Page
-/Contents 107 0 R
-/Resources <<
-/ExtGState <<
-/GSa 6 0 R
->>
-/Font <<
-/F1 7 0 R
-/F144 108 0 R
-/F57 48 0 R
-/F7 8 0 R
-/F8 14 0 R
->>
-/ColorSpace <<
-/PCSp 20 0 R
-/CSp /DeviceRGB
-/CSpg /DeviceGray
->>
-/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
->>
-/Annots [ ]
-/MediaBox [ 0 0 595 842 ]
-/Parent 2 0 R
->>
+19 0 obj
+<< /Parent 2 0 R /MediaBox [ 0 0 595 842 ] /Resources << /ProcSet [ /ImageB
+/ImageC /ImageI /PDF /Text ] /ColorSpace << /CSpg /DeviceGray /CSp /DeviceRGB
+/PCSp 26 0 R >> /Font << /F7 28 0 R /F8 27 0 R /F57 68 0 R /F144 112 0 R /F1
+29 0 R >> /ExtGState << /GSa 30 0 R >> >> /Contents 113 0 R /Annots [ ] /Type
+/Page >>
 endobj
-107 0 obj
-<<
-/Length 145605
->>
+113 0 obj
+<< /Length 145605 >> 
 stream
 q
 0.0 0.0 595.2756 841.8898 re
@@ -58602,52 +57753,23 @@ Q
 
 endstream
 endobj
-108 0 obj
-<<
-/Type /Font
-/Subtype /Type0
-/BaseFont /DejaVuSansMono-Bold
-/Encoding /Identity-H
-/DescendantFonts [ 109 0 R ]
-/ToUnicode 113 0 R
+112 0 obj
+<< /ToUnicode 114 0 R /Encoding /Identity-H /DescendantFonts [ 115 0 R ] /BaseFont
+/DejaVuSansMono-Bold /Subtype /Type0 /Type /Font >>
+endobj
+115 0 obj
+<< /DW 602 /CIDToGIDMap /Identity /FontDescriptor 116 0 R /CIDSystemInfo <<
+/Supplement 0 /Ordering (Identity) /Registry (Adobe) >> /BaseFont /DejaVuSansMono-Bold
+/Subtype /CIDFontType2 /Type /Font >>
+endobj
+116 0 obj
+<< /CIDSet 117 0 R /CapHeight 928.2227 /StemV 43.94531 /Descent -235.8398
+/Ascent 928.2227 /Flags 4 /FontFile2 118 0 R /FontName /QYGAAA+DejaVuSansMono-Bold
+/ItalicAngle 0 /FontBBox [ -446.7773 -394.043 731.9336 1041.016 ] /Type /FontDescriptor
 >>
 endobj
-109 0 obj
-<<
-/Type /Font
-/Subtype /CIDFontType2
-/BaseFont /DejaVuSansMono-Bold
-/CIDSystemInfo <<
-/Registry (Adobe)
-/Ordering (Identity)
-/Supplement 0
->>
-/FontDescriptor 110 0 R
-/CIDToGIDMap /Identity
-/DW 602
->>
-endobj
-110 0 obj
-<<
-/Type /FontDescriptor
-/FontName /QYGAAA+DejaVuSansMono-Bold
-/Flags 4
-/FontBBox [ -446.777343 -394.042968 731.933593 1041.01562 ]
-/ItalicAngle 0
-/Ascent 928.222656
-/Descent -235.839843
-/CapHeight 928.222656
-/StemV 43.9453125
-/FontFile2 111 0 R
-/CIDSet 112 0 R
->>
-endobj
-111 0 obj
-<<
-/Length1 10332
-/Filter /FlateDecode
-/Length 4693
->>
+118 0 obj
+<< /Length 4693 /Filter /FlateDecode /Length1 10332 >> 
 stream
 xœÅZ{p[Uz?çZ±ƒyÅøÅ.„ËÄN‚";¶Bº‘eÙÑÃ‘dçMr­{e][Ò÷^Å1…†íÌni€……-»ì°ÀRº³ĞN§-ìô1i;³MÃtÒ“](v6C;İ”Xéw¾s®^1	C·S‹+{Î÷ø}Ïsî„BÖ’GH!‰ÔĞğ?3¿×ì|~9ûmıí¯Áø}BÖ¤sºªeŞ<OHë˜ËÁÄÚÑ3p_‚ûÛsçDl]ÛÜîwåÍŒzİlû[pÿ6Ü{ê‰é$#pÿ1Ü³¢ZĞ±/ç	i»™¾qB=g”“5 kdh¡·‰ß–wIV¹‰åÚ¶kZZ=Šâù\ú{òÉ§
 !›@™Î†5Â»t©µ«ÒE¿ÓV ??Fè{—Şã«D!¹ÊsÜš—ÁÊ6B:;ú:6öuôå<ä¢İrËÅ*ÏµİğñX­›	%	ñL¶v‘AGßh_GWoO`¤»Ï;8@«¼«Ä7oÊükå/Î:Lÿ¡åØùOßúZ`=ŸÏs-s—~î1=¿¼€»µ­µ˜G†c£Û{]`,ĞÓÛÓ©´µöƒ4%gÜÆÿ^yêäã.œ|œÒÇO^¸ğøÉ–“ôĞ‘W^=täÈ¡W_9r¨ò}zãé)}ñtåß+½xúô‹€ô‡ íĞ¶#ô¶µ¶ööö‚ŞV¡c°£G  €Aøo`t{`ld¸·§å½½ûìËl¦ï^›şŞ¥%ë}}a1¯ê™£ó£ÛéÆ“{'+—ß¾ïØ}{.‘í·|‰ŞzÛ×·µt¤gŸüÑÌ¾›ÖİNÉ[×ßvÛ]ëûoÚ˜œşÆKŞØØO=Ë-g¥¿ûºÁÛİ}û=}Ÿ¾Ç/¥ëÊïÿ÷Øs—~æYBoßVp€¼·U€¦c€•{l][ë`+¬q1-É±À}GÁçtGàè}±Jnl÷ä¡¿Ê/Ğ…Å·ô={ü•¢·+[_:|ˆÒC‡_úş¡Ã‡)#C~úíç+T>|ş»”ß9÷*(ıG@|xñƒ~¯ˆXlt#°‚Gc}#<†ı0Ó6Êa±ŞåÇ¯ì
@@ -58669,18 +57791,14 @@ WÌáò*wÑájÅÅ·dŸl¿¼}@vÃn$Ú¯v\‡.hóVõaòf²dØXé°L¹ïÙj”W•
 ³± Ü±dÀ²d4¦–aÖ2[±%·ªf¸–fü–n—`§2ëùe?ĞZ|?C$F1kZi:º/ãìt{¨ÃæQ¸†›Ö¼ŸµÿoşUtOÁ‹páÉQÃ÷q~|7Z‚¹Æ÷|Wş7Ô¡%cÑ2 ğ—r¥!Ù“	!ÿë…ş<
 endstream
 endobj
-112 0 obj
-<<
-/Length 3
->>
+117 0 obj
+<< /Length 3 >> 
 stream
 ÿÿ 
 endstream
 endobj
-113 0 obj
-<<
-/Length 469
->>
+114 0 obj
+<< /Length 469 >> 
 stream
 /CIDInit /ProcSet findresource begin
 12 dict begin
@@ -58702,37 +57820,15 @@ end
 
 endstream
 endobj
-114 0 obj
-<<
-/Type /Page
-/Contents 115 0 R
-/Resources <<
-/ExtGState <<
-/GSa 6 0 R
->>
-/Font <<
-/F1 7 0 R
-/F31 25 0 R
-/F57 48 0 R
-/F7 8 0 R
-/F8 14 0 R
->>
-/ColorSpace <<
-/PCSp 20 0 R
-/CSp /DeviceRGB
-/CSpg /DeviceGray
->>
-/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
->>
-/Annots [ ]
-/MediaBox [ 0 0 595 842 ]
-/Parent 2 0 R
->>
+20 0 obj
+<< /Parent 2 0 R /MediaBox [ 0 0 595 842 ] /Resources << /ProcSet [ /ImageB
+/ImageC /ImageI /PDF /Text ] /ColorSpace << /CSpg /DeviceGray /CSp /DeviceRGB
+/PCSp 26 0 R >> /Font << /F7 28 0 R /F8 27 0 R /F57 68 0 R /F31 48 0 R /F1
+29 0 R >> /ExtGState << /GSa 30 0 R >> >> /Contents 119 0 R /Annots [ ] /Type
+/Page >>
 endobj
-115 0 obj
-<<
-/Length 18561
->>
+119 0 obj
+<< /Length 18561 >> 
 stream
 q
 0.0 0.0 595.2756 841.8898 re
@@ -59587,42 +58683,15 @@ Q
 
 endstream
 endobj
-116 0 obj
-<<
-/Type /Page
-/Contents 117 0 R
-/Resources <<
-/ExtGState <<
-/GSa 6 0 R
->>
-/Font <<
-/F1 7 0 R
-/F31 25 0 R
-/F32 31 0 R
-/F57 48 0 R
-/F7 8 0 R
-/F8 14 0 R
->>
-/XObject <<
-/Im157 118 0 R
-/Im159 120 0 R
->>
-/ColorSpace <<
-/PCSp 20 0 R
-/CSp /DeviceRGB
-/CSpg /DeviceGray
->>
-/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
->>
-/Annots [ ]
-/MediaBox [ 0 0 595 842 ]
-/Parent 2 0 R
->>
+21 0 obj
+<< /Parent 2 0 R /MediaBox [ 0 0 595 842 ] /Resources << /ProcSet [ /ImageB
+/ImageC /ImageI /PDF /Text ] /ColorSpace << /CSpg /DeviceGray /CSp /DeviceRGB
+/PCSp 26 0 R >> /XObject << /Im159 120 0 R /Im157 121 0 R >> /Font << /F7
+28 0 R /F32 47 0 R /F57 68 0 R /F8 27 0 R /F31 48 0 R /F1 29 0 R >> /ExtGState
+<< /GSa 30 0 R >> >> /Contents 122 0 R /Annots [ ] /Type /Page >>
 endobj
-117 0 obj
-<<
-/Length 45434
->>
+122 0 obj
+<< /Length 45434 >> 
 stream
 q
 0.0 0.0 595.2756 841.8898 re
@@ -61771,18 +60840,9 @@ Q
 
 endstream
 endobj
-118 0 obj
-<<
-/Type /XObject
-/Subtype /Image
-/Width 696
-/Height 35
-/BitsPerComponent 8
-/ColorSpace /DeviceRGB
-/SMask 119 0 R
-/Filter /DCTDecode
-/Length 4493
->>
+121 0 obj
+<< /Filter /DCTDecode /ColorSpace /DeviceRGB /Length 4493 /SMask 123 0 R /BitsPerComponent
+8 /Type /XObject /Height 35 /Subtype /Image /Width 696 >> 
 stream
 ÿØÿà JFIF  d d  ÿÛ C 		
 
@@ -61841,32 +60901,16 @@ stream
 Sñ?[.OÚãË.ßøö‹ÿ ¾zûõ¢Š=¤û‡*ìñ;[R‡íqü3mÏ×åçñ¤u°›~Ö˜»ş=âÎ~»z{t¢Š=¤û‡*ì)ø­¶ÿ ô¸ÿ y×ı.>Ÿ/…ğ³õ½àı®<…Ûÿ Ñc÷Ï_~´QG´—på]~'kjı.?“¦m¢9úü¼ş4‡âf¶P¯ÚÓ·Ç¼YÏ×oOn”QG´Ÿpå]…o‰úÛ3ŸµÇóŒ[D1ôùxü(õ°Ê~×TmèÑcñùy>ôQG´Ÿpå]„_‰ºÚªµ¦äfŞ#ùü¼ş47Äİm•‡ÚÓrqo?‡ËÇáE{I÷UØVøŸ­³1û\yqƒ‹h€ü>^>¢…øŸ­«!û\yA›h~¿/?Qí'Ü9WaÄİl*µ¦·ôx³ÿ  ò=¨o‰ºÛkOŸ“şÇÓåãğ¢Š=¤»‡*ì/ü,ıoyoµÇ’»ãÚ,cé·¯¿Zâv¶»?ÒãıßLÛDsõùyüh¢i>áÊ»	ÿ 3[Ù·íiÛ¿ãŞ,çë·§·JSñ;[bÿ éqşó¯ú4CO—ÂŠ(ö“î«°‰úØpßk!vÿ Ç´XÇÓo_~´‹ñ7[Pƒíqü‡#6Ñı~^(£ÚO¸r®À~&ëeX}­0Çqÿ G‹?úÚ•¾'ëlÎ~×Î0qmÇÓåãğ¢Š=¤û‡*ìâ~¶OÚãÊôh±øü¼ıM ø›­ª¨ûZaFmâ'ñùyüh¢i>áÊ»|MÖÙ\}­0ç'ñËåãğ¥?õ²Ì~×Xm?èÑcğùx>ôQG´Ÿpå`_‰úÚ²µÇòÛDsõùyüiÄİl kLİÿ ñg?÷ÏOn”QG´Ÿpå]…o‰ÚÛÿ Kçë‹h†>Ÿ/…ğ³õ½û¾×víÿ h±¦Ş¾ıh¢i>áËÀ¿µµÙş—îúfÚ#Ÿ¯ËÏãIÿ 7[(Wíi‚Û¿ãŞ,çë·§·J(£ÚO¸r®Â·Äım‹ŸµÇóõÿ FˆcéòñøP>(kaû\y·ş=¢Æ?ï¾ıh¢i>áÊ»>&ëj¨>ÖŸ!Èÿ F‹Ÿ¯ËÏãC|MÖÙX}­0ÇqÅ¼@ş/ØQEÒ}Ã•v¾'ëlÌ~×\`âÚ!ù|¼~/ÄımYOÚãÊÛDGãòóøÑEÒ}Ã•v|MÖÕT}­0§pÿ G‹?ËÈö47Äİmƒµ§ÎrqmÇÓåãğ¢Š=¤»‡*ì)øŸ­–'íqå—iÿ F‹ÿ ¾zûõ¡~'kjPı®?“¦m¢9úü¼ş4QG´Ÿv«°Ÿğ³u°~Ö˜»ş=âÎ~»z{t¥o‰ÚÛoÿ K÷qmÇÓåãğ¢Š=¤»‡*ìğ³õ½û¾×víÿ h±¦Ş¾ıh_‰ÚÚ„ÿ Käé›h~¿/?Qí'Ü9WaÄÍl¡_µ¦nÿ x³Ÿ®Şİ)[â~¶ÅÉ»ç8¶ˆcéòñøQEÒ}Ã•vñ?[§íqåWhÿ F‹ú'Ş‘~&ëj¨>ÖŸ!ÈÍ¼Góùyüh¢i>áÊ»|MÖÙX}­0ç'ñø|¼~­ñ?[fcö¸òãÑø|¼}EQí'Ü9W`_‰úÚ²µÇ”¶ˆş/? ø™­…Qö´ÂÃı,ÿ è<j(£ÚO¸r®Àßu¶>×ÎrqmÇÓåãğ¥?5²äı®<•Ûÿ Ñc÷Ï_~´QG´Ÿpå]~'kjSı.?“¦m¢9úü¼ş4Ÿğ³u½¸ûZcvïø÷‹9ÿ ¾z{t¢Š=¤û‡*ì+|NÖÛú\¼ë‹h†>Ÿ/…â~¶µÇ»ãÚ,cşùëïÖŠ(ö’î«°‹ñ7[PƒíqüœŒÛDsõùyüh?5²¤}­0Çqÿ G‹?úÚŠ(ö“î«°­ñ?[fsö¸şqƒ‹h†>Ÿ/…â~¶¬§íqåÑş?—Ÿ©¢Š=¤û‡,{¿uµUkL!ÈÍ¼Dş?/?ñ7[eqö´ÃœŸôx‡åòñøQEÒ]Ã•vyñ#Z¿µš	/“p›$E†4WÇ@¢Š(©rov4’ØÿÙ
 endstream
 endobj
-119 0 obj
-<<
-/Type /XObject
-/Subtype /Image
-/Width 696
-/Height 35
-/BitsPerComponent 8
-/ColorSpace /DeviceGray
-/Filter /FlateDecode
-/Length 283
->>
+123 0 obj
+<< /Filter /FlateDecode /ColorSpace /DeviceGray /Length 283 /BitsPerComponent
+8 /Type /XObject /Height 35 /Subtype /Image /Width 696 >> 
 stream
 xœíÒAjÃ@DQÁøş§kY²»%Mk²Of †,”,bl\ğßNr‰óÇXÌlÌœì–›Ù–7›2G‹l?dÎvÍb¶¤Û%óÒFk]ï£ø1Zï#ï£ÒFsfÿ6~=P^z`<:°<éÀáÿøÏó“øÑéÍ”°Óğ	È9Ó-Ñ-Ñ-Ñ-Ñ-Ñ-Ñ-Ñ-Ñ-Ñ-Ñ-Ñ-Ñ-Ñ-Ñ-Ñ-Ñ-Ñ-Ñ-Ñ-Ñ-Ñ-Ñ-Ñ-Ñ-Ñ-Ñ-Ñ-Ñ-Ñ-Ñ-‡ØÃ·šî{]}©Õ½Ôâ^ëâkİİ³nµF{ı=Zû(Û(úhë£½şúö=l¯=P<ğÑâ4 Š¾ ¥ts
 endstream
 endobj
 120 0 obj
-<<
-/Type /XObject
-/Subtype /Image
-/Width 1560
-/Height 435
-/BitsPerComponent 8
-/ColorSpace /DeviceRGB
-/Filter /DCTDecode
-/Length 67995
->>
+<< /Filter /DCTDecode /ColorSpace /DeviceRGB /Length 67995 /BitsPerComponent
+8 /Type /XObject /Height 435 /Subtype /Image /Width 1560 >> 
 stream
 ÿØÿà JFIF  d d  ÿÛ C 		
 
@@ -62471,39 +61515,15 @@ jÕ.®<asª^À—4h-ä–±A°‘¢^S`Ìóçß?mßxWö]?¾(|+›âG…¬|I/Š4™¬<O&}§\Ëo¼ÈdX&Y"
 ¨s$pÉ*†uGp¥xÇ5â?xcöÚÿ ‚küYñµïÃ/†şñ§Á}{@û£àíttÔlµ9.`{kˆ•”£Bdl¿mß{w’øöÕĞ~Ü|o·ğÇÃ‹}Aø»áQák=2ni—ÃÉç[Kçy³#ÉrÄÛ’À”ËJH* Zæ¾şÕ?ğ«?dŸŒ??°~ßÿ bçB¸şÓûo•ı•ı™qq6<Ÿ-¼ß7ÏÆw¦Í¹ù³€ì‘QEÄQE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE QE ÿÙ
 endstream
 endobj
-121 0 obj
-<<
-/Type /Page
-/Contents 122 0 R
-/Resources <<
-/ExtGState <<
-/GSa 6 0 R
->>
-/Font <<
-/F1 7 0 R
-/F144 108 0 R
-/F31 25 0 R
-/F57 48 0 R
-/F58 54 0 R
-/F7 8 0 R
-/F8 14 0 R
->>
-/ColorSpace <<
-/PCSp 20 0 R
-/CSp /DeviceRGB
-/CSpg /DeviceGray
->>
-/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
->>
-/Annots [ ]
-/MediaBox [ 0 0 595 842 ]
-/Parent 2 0 R
->>
+22 0 obj
+<< /Parent 2 0 R /MediaBox [ 0 0 595 842 ] /Resources << /ProcSet [ /ImageB
+/ImageC /ImageI /PDF /Text ] /ColorSpace << /CSpg /DeviceGray /CSp /DeviceRGB
+/PCSp 26 0 R >> /Font << /F7 28 0 R /F144 112 0 R /F58 67 0 R /F57 68 0 R
+/F8 27 0 R /F31 48 0 R /F1 29 0 R >> /ExtGState << /GSa 30 0 R >> >> /Contents
+124 0 R /Annots [ ] /Type /Page >>
 endobj
-122 0 obj
-<<
-/Length 155176
->>
+124 0 obj
+<< /Length 155176 >> 
 stream
 q
 0.0 0.0 595.2756 841.8898 re
@@ -69329,37 +68349,15 @@ Q
 
 endstream
 endobj
-123 0 obj
-<<
-/Type /Page
-/Contents 124 0 R
-/Resources <<
-/ExtGState <<
-/GSa 6 0 R
->>
-/Font <<
-/F1 7 0 R
-/F57 48 0 R
-/F58 54 0 R
-/F7 8 0 R
-/F8 14 0 R
->>
-/ColorSpace <<
-/PCSp 20 0 R
-/CSp /DeviceRGB
-/CSpg /DeviceGray
->>
-/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
->>
-/Annots [ ]
-/MediaBox [ 0 0 595 842 ]
-/Parent 2 0 R
->>
+23 0 obj
+<< /Parent 2 0 R /MediaBox [ 0 0 595 842 ] /Resources << /ProcSet [ /ImageB
+/ImageC /ImageI /PDF /Text ] /ColorSpace << /CSpg /DeviceGray /CSp /DeviceRGB
+/PCSp 26 0 R >> /Font << /F7 28 0 R /F58 67 0 R /F8 27 0 R /F57 68 0 R /F1
+29 0 R >> /ExtGState << /GSa 30 0 R >> >> /Contents 125 0 R /Annots [ ] /Type
+/Page >>
 endobj
-124 0 obj
-<<
-/Length 58197
->>
+125 0 obj
+<< /Length 58197 >> 
 stream
 q
 0.0 0.0 595.2756 841.8898 re
@@ -72050,37 +71048,15 @@ Q
 
 endstream
 endobj
-125 0 obj
-<<
-/Type /Page
-/Contents 126 0 R
-/Resources <<
-/ExtGState <<
-/GSa 6 0 R
->>
-/Font <<
-/F1 7 0 R
-/F144 108 0 R
-/F57 48 0 R
-/F7 8 0 R
-/F8 14 0 R
->>
-/ColorSpace <<
-/PCSp 20 0 R
-/CSp /DeviceRGB
-/CSpg /DeviceGray
->>
-/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
->>
-/Annots [ ]
-/MediaBox [ 0 0 595 842 ]
-/Parent 2 0 R
->>
+24 0 obj
+<< /Parent 2 0 R /MediaBox [ 0 0 595 842 ] /Resources << /ProcSet [ /ImageB
+/ImageC /ImageI /PDF /Text ] /ColorSpace << /CSpg /DeviceGray /CSp /DeviceRGB
+/PCSp 26 0 R >> /Font << /F7 28 0 R /F8 27 0 R /F57 68 0 R /F144 112 0 R /F1
+29 0 R >> /ExtGState << /GSa 30 0 R >> >> /Contents 126 0 R /Annots [ 127 0 R
+] /Type /Page >>
 endobj
 126 0 obj
-<<
-/Length 120050
->>
+<< /Length 120050 >> 
 stream
 q
 0.0 0.0 595.2756 841.8898 re
@@ -77579,141 +76555,173 @@ Q
 
 endstream
 endobj
+127 0 obj
+<< /AP << /N 128 0 R >> /C [ 0.486275 0.784314 0.407843 ] /QuadPoints [ 48.27957
+344.0645 453.0585 344.0645 48.27957 334.6697 453.0585 334.6697 ] /M (D:20260924105815+06'00')
+/Rect [ 48.27957 334.6697 453.0585 344.0645 ] /T (Tamzid Islam) /Subtype /Highlight
+/F 4 >>
+endobj
+128 0 obj
+<< /Filter /FlateDecode /Resources << /ExtGState << /GS1 << /BM /Multiply
+/Type /ExtGState >> >> /ColorSpace << /CS1 [ /ICCBased 129 0 R ] >> >> /BBox
+[ 0 0 404.7789 9.394796 ] /Type /XObject /Subtype /Form /Length 169 >> 
+stream
+xM½Â0„÷<Å=›4?¶gæªKA*}	W”¤òb:İWLXám’OÄ,
+¥¨‰µàsÇo—9 nğ”¤ŒœmaI1¤ø}ÅV1\çà¦B¢¢Uğ²£Pæ3›V[¡”sŒ@byYÑHµ#uà‘$jî¢V´y7Ò¢w£ã‘$XGuÍ©Wù¥õ»öN.§î:¿ñùåŠ¦/Ep
+endstream
+endobj
+129 0 obj
+<< /Length 2612 /Alternate /DeviceRGB /Filter /FlateDecode /N 3 >> 
+stream
+x–wTSÙ‡Ï½7½Ğ" %ôz	 Ò;HQ‰I€P†„&vDF)VdTÀG‡"cEƒ‚b×	òPÆÁQDEåİŒk	ï­5óŞšıÇYßÙç·×Ùgï}×º Pü‚ÂtX€4¡XîëÁ\ËÄ÷XÀáffGøDÔü½=™™¨HÆ³öî.€d»Û,¿P&sÖÿ‘"7C$ 
+EÕ6<~&å”S³Å2ÿÊô•)2†12¡	¢¬"ãÄ¯lö§æ+»É˜—&ä¡YÎ¼4Œ»PŞš%á£Œ¡\˜%àg£|e½TIš å÷(ÓÓøœL 0™_Ìç&¡l‰2Eî‰ò ”Ä9¼r‹ù9h x¦gäŠ‰Ib¦×˜iåèÈfúñ³Sùb1+”ÃMáˆxLÏô´0€¯o–E%Ym™h‘í­ííYÖæhù¿Ùß~Sı=ÈzûUñ&ìÏAŒYßlì¬/½ ö$Z›³¾•U ´m@åá¬Oï  ò ´Şœó†l^’Äâ'‹ììlsŸk.+è7ûŸ‚oÊ¿†9÷™ËîûV;¦?#I3eEå¦§¦KDÌÌ—Ïdı÷ÿãÀ9iÍÉÃ,œŸÀñ…èUQè”	„‰h»…<X.d
+„Õá6'~khu_ }…9P¸IÈo= C#$n?z}ë[1
+È¾¼h­‘¯s2zşçú\ŠnáLA"Sæödr%¢,£ß„lÁt 
+4.0,`€3pŞ  „€H–.Hi@²A>Ø 
+A1Øvƒjp ÔzĞN‚6p\WÀp€G@
+†ÁK0Şi‚ğ¢Aª¤™BÖZyCAP8ÅC‰’@ùĞ&¨*ƒª¡CP=ô#tº]ƒú Ğ 4ı}„˜ÓaØ ¶€Ù°;GÂËàDxœÀÛáJ¸>·Âáğ ,…_Â“@ÈÑFXñDBX$!k‘"¤©Eš¤¹H‘qä‡¡a˜Æã‡YŒábVaÖbJ0Õ˜c˜VLæ6f3ù‚¥bÕ±¦X'¬?v	6›-ÄV``[°—±Øaì;ÇÀâp~¸\2n5®·×Œ»€ëÃá&ñx¼*Şï‚Ásğb|!¾
+ßÆ¿'	Zk‚!– $l$Tçı„Â4Q¨Ot"†yÄ\b)±ØA¼I&N“I†$R$)™´TIj"]&=&½!“É:dGrY@^O®$Ÿ _%’?P”(&OJEBÙN9J¹@y@yC¥R¨nÔXª˜ºZO½D}J}/G“3—ó—ãÉ­“«‘k•ë—{%O”×—w—_.Ÿ'_!Jş¦ü¸QÁ@ÁS£°V¡Fá´Â=…IEš¢•bˆbšb‰bƒâ5ÅQ%¼’’·O©@é°Ò%¥!BÓ¥yÒ¸´M´:ÚeÚ0G7¤ûÓ“éÅôè½ô	e%e[å(ååå³ÊRÂ0`ø3R¥Œ“Œ»Œó4æ¹ÏãÏÛ6¯i^ÿ¼)•ù*n*|•"•f••ªLUoÕÕªmªOÔ0j&jajÙjûÕ.«Ï§ÏwÏ_4ÿäü‡ê°º‰z¸újõÃê=ê“š¾U—4Æ5šnšÉšåšç4Ç´hZµZåZçµ^0•™îÌTf%³‹9¡­®í§-Ñ>¤İ«=­c¨³Xg£N³Î]’.[7A·\·SwBOK/X/_¯Qï¡>QŸ­Ÿ¤¿G¿[ÊÀĞ Ú`‹A›Á¨¡Š¡¿aa£ác#ª‘«Ñ*£Z£;Æ8c¶qŠñ>ã[&°‰I’IÉMSØÔŞT`ºÏ´Ïkæh&4«5»Ç¢°ÜYY¬FÖ 9Ã<È|£y›ù+=‹X‹İ_,í,S-ë,Y)YXm´ê°úÃÚÄšk]c}Ç†jãc³Î¦İæµ­©-ßv¿í};š]°İ»N»Ïöö"û&û1=‡x‡½÷Øtv(»„}Õëèá¸ÎñŒã'{'±ÓI§ßYÎ)ÎÎ£ğÔ-rÑqá¸r‘.d.Œ_xp¡ÔUÛ•ãZëúÌM×çvÄmÄİØ=Ùı¸û+K‘G‹Ç”§“çÏ^ˆ—¯W‘W¯·’÷bïjï§>:>‰>>¾v¾«}/øaııvúİó×ğçú×ûO8¬	è
+¤FV>2	uÃÁÁ»‚/Ò_$\ÔBüCv…<	5]ús.,4¬&ìy¸Ux~xw-bEDCÄ»HÈÒÈG‹KwFÉGÅEÕGME{E—EK—X,Y³äFŒZŒ ¦={$vr©÷ÒİK‡ãìâ
+ãî.3\–³ìÚrµå©ËÏ®_ÁYq*ßÿ‰Â©åL®ô_¹wå×“»‡û’çÆ+çñ]øeü‘—„²„ÑD—Ä]‰cI®IIãOAµàu²_òä©””£)3©Ñ©Íi„´ø´ÓB%aŠ°+]3='½/Ã4£0CºÊiÕîU¢@Ñ‘L(sYf»˜şLõHŒ$›%ƒY³j²ŞgGeŸÊQÌæôäšänËÉóÉû~5f5wug¾vş†üÁ5îk­…Ö®\Û¹Nw]Áºáõ¾ëm mHÙğËFËeßnŠŞÔQ Q°¾`h³ïæÆB¹BQá½-Î[lÅllíİf³­jÛ—"^ÑõbËâŠâO%Ü’ëßY}WùİÌö„í½¥ö¥ûwàvwÜİéºóX™bY^ÙĞ®à]­åÌò¢ò·»Wì¾Va[q`id´2¨²½J¯jGÕ§ê¤êšæ½ê{·íÚÇÛ×¿ßmÓÅ>¼È÷Pk­AmÅaÜá¬ÃÏë¢êº¿g_DíHñ‘ÏG…G¥ÇÂuÕ;Ô×7¨7”6Â’Æ±ãqÇoıàõC{«éP3£¹ø8!9ñâÇøï<ÙyŠ}ªé'ıŸö¶ĞZŠZ¡ÖÜÖ‰¶¤6i{L{ßé€ÓÎ-?›ÿ|ôŒö™š³ÊgKÏ‘Îœ›9Ÿw~òBÆ…ñ‹‰‡:Wt>º´äÒ®°®ŞË—¯^ñ¹r©Û½ûüU—«g®9];}}½í†ıÖ»–_ì~iéµïm½ép³ı–ã­¾}çú]û/Şöº}åÿ‹úî.¾{ÿ^Ü=é}ŞıÑ©^?Ìz8ıhıcìã¢'
+O*ª?­ıÕø×f©½ôì ×`Ï³ˆg†¸C/ÿ•ù¯OÃÏ©Ï+F´FêG­GÏŒùŒİz±ôÅğËŒ—Óã…¿)ş¶÷•Ñ«Ÿ~wû½gbÉÄğkÑë™?JŞ¨¾9úÖömçdèäÓwiï¦§ŠŞ«¾?öı¡ûcôÇ‘éìOøO•Ÿ?w|	üòx&mfæß÷„óû
+endstream
+endobj
 xref
-0 127
+0 130
 0000000000 65535 f 
-0000000015 00000 n 
-0000000183 00000 n 
-0000000397 00000 n 
-0000000446 00000 n 
-0000000748 00000 n 
-0000019040 00000 n 
-0000019132 00000 n 
-0000019239 00000 n 
-0000019377 00000 n 
-0000019942 00000 n 
-0000020212 00000 n 
-0000030221 00000 n 
-0000030284 00000 n 
-0000031309 00000 n 
-0000031454 00000 n 
-0000031990 00000 n 
-0000032265 00000 n 
-0000041876 00000 n 
-0000041937 00000 n 
-0000042899 00000 n 
-0000042939 00000 n 
-0000043243 00000 n 
-0000078820 00000 n 
-0000079215 00000 n 
-0000135863 00000 n 
-0000136011 00000 n 
-0000136464 00000 n 
-0000136740 00000 n 
-0000145510 00000 n 
-0000145568 00000 n 
-0000146383 00000 n 
-0000146524 00000 n 
-0000146926 00000 n 
-0000147194 00000 n 
-0000153849 00000 n 
-0000153905 00000 n 
-0000154643 00000 n 
-0000157253 00000 n 
-0000157597 00000 n 
-0000160958 00000 n 
-0000161303 00000 n 
-0000166177 00000 n 
-0000166767 00000 n 
-0000243854 00000 n 
-0000244170 00000 n 
-0000272086 00000 n 
-0000272492 00000 n 
-0000400886 00000 n 
-0000401030 00000 n 
-0000401241 00000 n 
-0000401514 00000 n 
-0000408927 00000 n 
-0000408985 00000 n 
-0000409807 00000 n 
-0000409959 00000 n 
-0000410178 00000 n 
-0000410459 00000 n 
-0000418871 00000 n 
-0000418930 00000 n 
-0000419787 00000 n 
-0000423553 00000 n 
-0000423966 00000 n 
-0000426775 00000 n 
-0000427118 00000 n 
-0000429194 00000 n 
-0000429484 00000 n 
-0000429812 00000 n 
-0000506548 00000 n 
-0000506941 00000 n 
-0000594057 00000 n 
-0000594203 00000 n 
-0000594461 00000 n 
-0000594734 00000 n 
-0000599355 00000 n 
-0000599407 00000 n 
-0000599886 00000 n 
-0000602645 00000 n 
-0000603108 00000 n 
-0000605968 00000 n 
-0000606664 00000 n 
-0000606992 00000 n 
-0000734226 00000 n 
-0000734583 00000 n 
-0000777971 00000 n 
-0001044776 00000 n 
-0001184591 00000 n 
-0001184895 00000 n 
-0001207452 00000 n 
-0001207797 00000 n 
-0001241595 00000 n 
-0001312352 00000 n 
-0001312709 00000 n 
-0001381871 00000 n 
-0001467658 00000 n 
-0001467998 00000 n 
-0001576273 00000 n 
-0001576618 00000 n 
-0001653530 00000 n 
-0001857090 00000 n 
-0001857488 00000 n 
-0001947221 00000 n 
+0000000022 00000 n 
+0000000181 00000 n 
+0000000432 00000 n 
+0000042910 00000 n 
+0000078794 00000 n 
+0000243816 00000 n 
+0000272051 00000 n 
+0000429433 00000 n 
+0000506500 00000 n 
+0000606612 00000 n 
+0000734178 00000 n 
+0001184549 00000 n 
+0001207414 00000 n 
+0001312323 00000 n 
+0001467638 00000 n 
+0001576259 00000 n 
+0001857085 00000 n 
+0002042742 00000 n 
+0002062727 00000 n 
+0002214720 00000 n 
+0002233669 00000 n 
+0002352849 00000 n 
+0002508440 00000 n 
+0002567025 00000 n 
+0000000382 00000 n 
+0000042870 00000 n 
+0000031293 00000 n 
+0000019233 00000 n 
+0000019125 00000 n 
+0000019032 00000 n 
+0000000738 00000 n 
+0000030267 00000 n 
+0000019373 00000 n 
+0000019939 00000 n 
+0000030203 00000 n 
+0000020193 00000 n 
+0000041907 00000 n 
+0000031438 00000 n 
+0000031974 00000 n 
+0000041845 00000 n 
+0000032233 00000 n 
+0000043216 00000 n 
+0000166728 00000 n 
+0000161262 00000 n 
+0000157554 00000 n 
+0000154598 00000 n 
+0000146348 00000 n 
+0000135840 00000 n 
+0000079191 00000 n 
+0000145532 00000 n 
+0000135988 00000 n 
+0000136441 00000 n 
+0000145473 00000 n 
+0000136702 00000 n 
+0000153859 00000 n 
+0000146489 00000 n 
+0000146891 00000 n 
+0000153802 00000 n 
+0000147146 00000 n 
+0000157209 00000 n 
+0000160916 00000 n 
+0000166137 00000 n 
+0000244134 00000 n 
+0000427065 00000 n 
+0000423911 00000 n 
+0000419730 00000 n 
+0000409762 00000 n 
+0000400854 00000 n 
+0000272459 00000 n 
+0000408939 00000 n 
+0000400998 00000 n 
+0000401209 00000 n 
+0000408880 00000 n 
+0000401466 00000 n 
+0000418872 00000 n 
+0000409914 00000 n 
+0000410133 00000 n 
+0000418812 00000 n 
+0000410399 00000 n 
+0000423497 00000 n 
+0000426721 00000 n 
+0000429142 00000 n 
+0000429763 00000 n 
+0000603054 00000 n 
+0000599830 00000 n 
+0000594012 00000 n 
+0000506895 00000 n 
+0000599350 00000 n 
+0000594158 00000 n 
+0000594416 00000 n 
+0000599297 00000 n 
+0000594675 00000 n 
+0000602590 00000 n 
+0000605915 00000 n 
+0000606943 00000 n 
+0001044733 00000 n 
+0000777927 00000 n 
+0000734538 00000 n 
+0001184856 00000 n 
+0001241564 00000 n 
+0001207764 00000 n 
+0001381849 00000 n 
+0001312685 00000 n 
+0001467982 00000 n 
+0001653523 00000 n 
+0001576609 00000 n 
+0001952621 00000 n 
+0001947220 00000 n 
+0001857486 00000 n 
 0001952052 00000 n 
-0001952620 00000 n 
-0002042740 00000 n 
-0002043046 00000 n 
-0002062722 00000 n 
-0002063054 00000 n 
-0002208715 00000 n 
-0002208867 00000 n 
-0002209085 00000 n 
-0002209367 00000 n 
-0002214150 00000 n 
-0002214204 00000 n 
-0002214726 00000 n 
-0002215056 00000 n 
-0002233672 00000 n 
-0002234059 00000 n 
+0002043050 00000 n 
+0002208723 00000 n 
+0002063061 00000 n 
+0002214197 00000 n 
+0002208875 00000 n 
+0002209093 00000 n 
+0002214142 00000 n 
+0002209358 00000 n 
+0002215052 00000 n 
+0002284681 00000 n 
 0002279548 00000 n 
-0002284225 00000 n 
-0002284679 00000 n 
-0002352846 00000 n 
-0002353202 00000 n 
-0002508434 00000 n 
-0002508764 00000 n 
-0002567016 00000 n 
-0002567348 00000 n 
+0002234058 00000 n 
+0002284226 00000 n 
+0002353207 00000 n 
+0002508772 00000 n 
+0002567367 00000 n 
+0002687474 00000 n 
+0002687758 00000 n 
+0002688185 00000 n 
+
 trailer
-<<
-/Size 127
-/Root 3 0 R
-/Info 1 0 R
->>
+<< /Info 1 0 R /ID [ <f412174ff8dec0736ef37c22f20747b2> <f412174ff8dec0736ef37c22f20747b2>
+] /Root 25 0 R /Size 130 >> 
 startxref
-2687454
+2690900
 %%EOF
